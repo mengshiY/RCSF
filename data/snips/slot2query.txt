@@ -1,0 +1,39 @@
+playlist	what is a playlist? 
+music_item	what is the music project? 
+geographic_poi	what is the location? 
+facility	what are the facilities? 
+movie_name	what is the name of the movie? 
+location_name	what is the location name? 
+restaurant_name	what is the name of the restaurant? 
+track	what is the track? 
+restaurant_type	what is the type of restaurant? 
+object_part_of_series_type	what is the object part of the series type? 
+country	which country? 
+service	what is the service? 
+poi	what is the position? 
+party_size_description	Who are the people attending the party? 
+served_dish	what is a dish? 
+genre	what is the genre? 
+current_location	what is the current position? 
+object_select	what is the object to be rated? 
+album	what album? 
+object_name	what is the object name? 
+state	Where is the location? 
+sort	what type is it? 
+object_location_type	what is the location type? 
+movie_type	what type of movie is it? 
+spatial_relation	what is the spatial relationship? 
+artist	what is an artist? 
+cuisine	what dish? 
+entity_name	what is the name of the entity? 
+object_type	what is an object type? 
+playlist_owner	what is the owner of the playlist? 
+timeRange	what is the time range?
+city	what city? 
+rating_value	what is the value of the rating? 
+best_rating	what is the best rating?
+rating_unit	what is the rating unit? 
+year	which year 
+party_size_number	what is the number of people at the party? 
+condition_description	how is the weather? 
+condition_temperature	what is the condition temperature? 

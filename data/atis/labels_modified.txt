@@ -1,0 +1,83 @@
+day_number	day number
+time_relative	time relative
+meal_description	meal description
+depart_date.day_number	day number of depart date
+airline_name	airline name
+transport_type	transport type
+return_time.period_mod	period mod of return time
+economy	economy
+airline_code	airline code
+fare_basis_code	fare basis code
+fromloc.state_code	state code of fromloc
+fromloc.airport_code	airport code of fromloc
+arrive_date.date_relative	date relative of arrive date
+stoploc.airport_name	airport name of stoploc
+restriction_code	restriction code
+toloc.city_name	city name of toloc
+day_name	day name
+state_name	state name
+return_date.today_relative	today relative of return date
+airport_code	airport code
+state_code	state code
+depart_time.end_time	end time of depart time
+time	time
+depart_date.year	year of depart date
+round_trip	round trip
+fare_amount	fare amount
+meal_code	meal code
+airport_name	airport name
+depart_time.start_time	start time of depart time
+arrive_date.month_name	month name of arrive date
+flight_mod	flight mod
+arrive_date.day_number	day number of arrive date
+days_code	days code
+city_name	city name
+depart_time.time	time of depart time
+arrive_time.start_time	start time of arrive time
+period_of_day	period of day
+return_date.day_number	day number of return date
+toloc.airport_name	airport name of toloc
+depart_time.time_relative	time relative of depart time
+depart_date.day_name	day name of depart date
+return_date.month_name	month name of return date
+depart_date.today_relative	today relative of depart date
+fromloc.city_name	city name of fromloc
+arrive_date.today_relative	today relative of arrive date
+fromloc.state_name	state name of fromloc
+aircraft_code	aircraft code
+toloc.state_code	state code of toloc
+mod	mod
+or	or
+toloc.state_name	state name of toloc
+month_name	month name
+arrive_date.day_name	day name of arrive date
+arrive_time.end_time	end time of arrive time
+return_date.day_name	day name of return date
+depart_time.period_of_day	period of day of depart time
+stoploc.state_code	state code of stoploc
+fromloc.airport_name	airport name of fromloc
+booking_class	booking class
+arrive_time.time	time of arrive time
+today_relative	today relative
+arrive_time.period_of_day	period of day of arrive time
+arrive_time.period_mod	period mod of arrive time
+flight_number	flight number
+class_type	class type
+flight_days	flight days
+compartment	compartment
+depart_date.date_relative	date relative of depart date
+toloc.country_name	country name of toloc
+meal	meal
+cost_relative	cost relative
+flight	flight
+arrive_time.time_relative	time relative of arrive time
+return_date.date_relative	date relative of return date
+flight_stop	flight stop
+toloc.airport_code	airport code of toloc
+depart_date.month_name	month name of depart date
+connect	connect
+flight_time	flight time
+depart_time.period_mod	period mod of depart time
+stoploc.airport_code	airport code of stoploc
+return_time.period_of_day	period of day of return time
+stoploc.city_name	city name of stoploc

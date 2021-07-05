@@ -1,0 +1,83 @@
+aircraft_code	aircraft code	m80	757
+airline_code	airline code	twa	dl
+airline_name	airline name	american airlines	united airlines
+airport_code	airport code	ewr	mco
+airport_name	airport name	general mitchell international	boston airport
+arrive_date.date_relative	date relative of arrive date	next
+arrive_date.day_name	day name of arrive date	wednesday	tuesday
+arrive_date.day_number	day number of arrive date	seventh	second
+arrive_date.month_name	month name of arrive date	july	may
+arrive_date.today_relative	today relative of arrive date	tomorrow
+arrive_time.end_time	end time of arrive time	9 pm	1245 pm
+arrive_time.period_mod	period mod of arrive time	early	earliest
+arrive_time.period_of_day	period of day of arrive time	afternoon	morning
+arrive_time.start_time	start time of arrive time	4	8
+arrive_time.time	time of arrive time	noon	5 pm
+arrive_time.time_relative	time relative of arrive time	before	around
+booking_class	booking class	q
+city_name	city name	denver	dallas
+class_type	class type	first class	coach
+compartment	compartment	coach
+connect	connect	direct	connecting
+cost_relative	cost relative	cheapest	less
+day_name	day name	wednesday	monday
+day_number	day number	sixth	seventh
+days_code	days code	sa
+depart_date.date_relative	date relative of depart date	next	same
+depart_date.day_name	day name of depart date	wednesday	monday
+depart_date.day_number	day number of depart date	twenty seventh	first
+depart_date.month_name	month name of depart date	august	july
+depart_date.today_relative	today relative of depart date	tomorrow	today
+depart_date.year	year of depart date	1991	1992
+depart_time.end_time	end time of depart time	2 pm	4
+depart_time.period_mod	period mod of depart time	early	late
+depart_time.period_of_day	period of day of depart time	morning	afternoon
+depart_time.start_time	start time of depart time	10 am	12
+depart_time.time	time of depart time	noon	6 pm
+depart_time.time_relative	time relative of depart time	after	before
+economy	economy	economy	economy class
+fare_amount	fare amount	1000 dollars	466 dollars
+fare_basis_code	fare basis code	f	h
+flight	flight	flight
+flight_days	flight days	daily
+flight_mod	flight mod	earliest	latest
+flight_number	flight number	281	825
+flight_stop	flight stop	nonstop	one stop
+flight_time	flight time	time	schedule
+fromloc.airport_code	airport code of from location	jfk	bwi
+fromloc.airport_name	airport name of from location	love field	la guardia
+fromloc.city_name	city name of from location	boston	denver
+fromloc.state_code	state code of from location	dc
+fromloc.state_name	state name of from location	california	florida
+meal	meal	meal	meals
+meal_code	meal code	s	sd d
+meal_description	meal description	breakfast	dinner
+mod	mod	smallest	most
+month_name	month name	july
+or	or	or
+period_of_day	period of day	morning	evening
+restriction_code	restriction code	ap 57	ap57
+return_date.date_relative	date relative of return date	day	next
+return_date.day_name	day name of return date	sunday	thursday
+return_date.day_number	day number of return date	sixth	twelve
+return_date.month_name	month name of return date	may	august
+return_date.today_relative	today relative of return date	the following day
+return_time.period_mod	period mod of return time	late
+return_time.period_of_day	period of day of return time	evening
+round_trip	round trip	round trip	one way
+state_code	state code	dc
+state_name	state name	california	arizona
+stoploc.airport_code	airport code of stop location	dtw
+stoploc.airport_name	airport name of stop location	hartfield
+stoploc.city_name	city name of stop location	denver	dallas
+stoploc.state_code	state code of stop location	dc
+time	time	time	9 am
+time_relative	time relative	around
+today_relative	today relative	the day after tomorrow	tomorrow
+toloc.airport_code	airport code of to location	bwi	dfw
+toloc.airport_name	airport name of to location	love field	general mitchell international
+toloc.city_name	city name of to location	san francisco	denver
+toloc.country_name	country name of to location	canada
+toloc.state_code	state code of to location	dc
+toloc.state_name	state name of to location	california	north carolina
+transport_type	transport type	limousine	rental car

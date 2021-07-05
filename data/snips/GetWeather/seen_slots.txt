@@ -1,0 +1,623 @@
+what is the forecast for 6 am in aruba	O O O O O B-timeRange I-timeRange O B-country
+what s the weather forecast for the northern mariana islands on 8/4/2024	O O O O O O O B-state I-state I-state O B-timeRange
+check the forecast for hulmeville wv	O O O O B-city B-state
+tell me the forecast for elderton indiana in 19 hours	O O O O O B-city B-state B-timeRange I-timeRange I-timeRange
+on may the thirteenth 2037 what will it be like in wilderville montenegro	O B-timeRange I-timeRange I-timeRange I-timeRange O O O O O O B-city B-country
+weather for marshall	O O B-city
+what will the weather be in rutherfordton rhode island on september 22nd 2017	O O O O O O B-city B-state I-state O B-timeRange I-timeRange I-timeRange
+what will be the weather like close by kackley	O O O O O O B-spatial_relation O B-city
+what will the weather be like in arizona on october the 3rd	O O O O O O O B-state O B-timeRange I-timeRange I-timeRange
+what s the weather forecast near to fern creek this winter	O O O O O B-spatial_relation O B-city I-city B-timeRange I-timeRange
+what is the weather forecast in canfield at 22:23:22	O O O O O O B-city O B-timeRange
+forecase for ohio in twenty one hours and one second	O O B-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+need weather forecast for stacy in vanuatu	O O O O B-city O B-country
+what s the forecast for al twenty one minutes from now	O O O O O B-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+weather within the same area as qatar at four	O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-country O B-timeRange
+give me a forecast for carol city	O O O O O B-city I-city
+what s the weather at zero pm in papeton montserrat	O O O O O B-timeRange I-timeRange O B-city B-country
+tell me the weather for comertown	O O O O O B-city
+tell me the weather forecast for equatorial guinea	O O O O O O B-country I-country
+in two hundred forty eight days what will mp weather be like	B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange O O B-state O O O
+what is the close by greenland forecast	O O O B-spatial_relation I-spatial_relation B-country O
+what is the weather forecast for cuba at eleven am	O O O O O O B-country O B-timeRange I-timeRange
+what will the weather be in cummings mississippi in eleven years	O O O O O O B-city B-state B-timeRange I-timeRange I-timeRange
+weather for swaziland	O O B-country
+what is the weather forecast nearby sc	O O O O O B-spatial_relation B-state
+what is the forecast for de on 9/11/2035	O O O O O B-state O B-timeRange
+is it going to be nice at 6 am at chippewa lake	O O O O O O O B-timeRange I-timeRange O B-city I-city
+what s the weather forecast for the area neighboring ks this autumn	O O O O O O O O B-spatial_relation B-state B-timeRange I-timeRange
+tell me the weather forecast for huxley ms	O O O O O O B-city B-state
+what s the weather like in groesbeck	O O O O O O B-city
+what is the weather forecast for colfax senegal on 1/1/2031	O O O O O O B-city B-country O B-timeRange
+what is the weather for cormorant me	O O O O O B-city B-state
+what s the weather far from jarbidge	O O O O B-spatial_relation O B-city
+what is the weather of la at 4 pm	O O O O O B-state O B-timeRange I-timeRange
+what s the weather forecast for oman 2 months from now	O O O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange
+what will the weather be in tajikistan on dec twentieth	O O O O O O B-country O B-timeRange I-timeRange
+what is the weather forecast for boden	O O O O O O B-city
+tell me the weather forecast one second from now in barnum island	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city I-city
+what is the weather looking like right now in wy	O O O O O O O B-timeRange O B-state
+what s the weather in stone mountain kentucky	O O O O O B-city I-city B-state
+show me weather forecast in clontarf ky from 4 hours from now	O O O O O B-city B-state O B-timeRange I-timeRange I-timeRange I-timeRange
+weather in grey eagle on feb fifteenth 2034	O O B-city I-city O B-timeRange I-timeRange I-timeRange
+what is the weather in hadar	O O O O O B-city
+what is the weather forecast for tanque	O O O O O O B-city
+please give me the forecast for branton	O O O O O O B-city
+what will the weather be like at two o clock in el salvador	O O O O O O O B-timeRange I-timeRange I-timeRange O B-country I-country
+what is the weather forecast one minute from now in macao	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country
+what s the forecast for north amityville	O O O O O B-city I-city
+how is the weather in birta	O O O O O B-city
+what is the forecast for lille in norway	O O O O O B-city O B-country
+how is the weather going to be in gambia in a week and a half	O O O O O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+let me get the forecast in allardt canada	O O O O O O B-city B-country
+one hour from now what will it be like in cholame rhode island	B-timeRange I-timeRange I-timeRange I-timeRange O O O O O O B-city B-state I-state
+tell me the forecast for breakfast at miller s cove	O O O O O B-timeRange O B-city I-city I-city
+what is the new caledonia forecast for bagnell on sep the 5th	O O O B-country I-country O O B-city O B-timeRange I-timeRange I-timeRange
+what s the weather forecast for sidnaw at 20 o clock	O O O O O O B-city O B-timeRange I-timeRange I-timeRange
+what s the weather forecast for glade park on july twenty-fifth 2033	O O O O O O B-city I-city O B-timeRange I-timeRange I-timeRange
+what s the weather going to be like not far from east timor	O O O O O O O O B-spatial_relation I-spatial_relation O B-country I-country
+what s the weather in macclenny	O O O O O B-city
+what is the weather one minute from now in ocilla	O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city
+what is the midnight forecast for argentina	O O O B-timeRange O O B-country
+where is bernardsville	O O B-city
+weather for ringold	O O B-city
+what s the weather forecast for mi for august 20th	O O O O O O B-state O B-timeRange I-timeRange
+what s the weather looking like in macy	O O O O O O O B-city
+what is the weather in silver springs western sahara	O O O O O B-city I-city B-country I-country
+what s the weather going to be like this autumn in ca	O O O O O O O O B-timeRange I-timeRange O B-state
+what s the weather in taiwan	O O O O O B-country
+weather for carlisle gardens as	O O B-city I-city B-state
+what is the weather forecast in brunei	O O O O O O B-country
+what will the weather be like in india at 02:55:25 am	O O O O O O O B-country O B-timeRange I-timeRange
+what will the weather be in deer river	O O O O O O B-city I-city
+what s the forecast for francisco netherlands antilles around eleven pm	O O O O O B-city B-country I-country O B-timeRange I-timeRange
+what will the weather be in wakarusa	O O O O O O B-city
+what will the weather be doing at midnight in brazil	O O O O O O O B-timeRange O B-country
+weather for four weeks from now in oregon	O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city
+please give me the weather for federated states of micronesia	O O O O O O B-state I-state I-state I-state
+what is the weather like for fleischmanns lesotho 43 weeks from now	O O O O O O B-city B-country B-timeRange I-timeRange I-timeRange I-timeRange
+will it feel nicer in finland or new mexico today	O O O O O B-city O B-state I-state B-timeRange
+what s the weather forecast for next saturday in granite wi	O O O O O O B-timeRange I-timeRange O B-city B-state
+give me a weather forecast for ca	O O O O O O B-state
+what is the lualualei forecast for one minute from now	O O O B-city O O B-timeRange I-timeRange I-timeRange I-timeRange
+tell me the weather forecast for molino washington	O O O O O O B-city B-state
+what is the weather prediction for acworth north korea in six years	O O O O O O B-city B-country I-country B-timeRange I-timeRange I-timeRange
+what s the weather like in ojo amarillo	O O O O O O B-city I-city
+what is the weather in ct	O O O O O B-state
+what will the weather be faraway in new jersey in ten weeks	O O O O O B-spatial_relation O B-state I-state B-timeRange I-timeRange I-timeRange
+what will the weather be like in lambertville india at ten pm	O O O O O O O B-city B-country O B-timeRange I-timeRange
+what will the weather be like this week close-by saudi arabia	O O O O O O O B-timeRange B-spatial_relation B-country I-country
+let me know how the weather will be in rainelle at night	O O O O O O O O O B-city O B-timeRange
+can you give me the weather forecast in tajikistan	O O O O O O O O B-country
+how is the weather in indian creek village	O O O O O B-city I-city I-city
+what s the weather forecast for saint pierre and miquelon	O O O O O O B-country I-country I-country I-country
+what s the weather forecast for breakfast time in palau	O O O O O O B-timeRange O O B-state
+what s the weather in totowa wy one minute from now	O O O O O B-city B-state B-timeRange I-timeRange I-timeRange I-timeRange
+what will the weather be in nm in 1 minute	O O O O O O B-state B-timeRange I-timeRange I-timeRange
+tell me the weather for sewickley at twelve am	O O O O O B-city O B-timeRange I-timeRange
+what s the weather forecast for etna green in 11 months	O O O O O O B-city I-city B-timeRange I-timeRange I-timeRange
+what is the weather forecast for djibouti	O O O O O O B-country
+how s the weather going to be on jul 2 in whiteside	O O O O O O O O B-timeRange I-timeRange O B-city
+what s the temperature today in griffin ne	O O O O B-timeRange O B-city B-state
+what s the weather forecast for belknap	O O O O O O B-city
+what is the weather like in hebbronville venezuela	O O O O O O B-city B-country
+what is the weather in nd the city of evangeline	O O O O O B-state O O O B-city
+how will the weather be on may 9 in wyoming	O O O O O O B-timeRange I-timeRange O B-state
+what s the weather close-by triumph	O O O O B-spatial_relation B-city
+what s the weather like in saint regis falls nd	O O O O O O B-city I-city I-city B-state
+what is the forecast for january twenty-eighth in kentmore park	O O O O O B-timeRange I-timeRange O B-city I-city
+what is the forecast for bonner starting oct 24th 2025 for argentina	O O O O O B-city O B-timeRange I-timeRange I-timeRange O B-country
+what s the weather this month in mozambique	O O O O B-timeRange I-timeRange O B-country
+what s the weather in mountain center	O O O O O B-city I-city
+what will the weather be like in 16 weeks at the ivory coast	O O O O O O B-timeRange I-timeRange I-timeRange O O B-country I-country
+what s the weather like in el salvador on wed	O O O O O O B-country I-country O B-timeRange
+how s the weather looking in pheba	O O O O O O B-city
+what will the weather be like on september the eighteenth in puerto rico	O O O O O O O B-timeRange I-timeRange I-timeRange O B-country I-country
+how will the weather be at 9 am in anguilla	O O O O O O B-timeRange I-timeRange O B-country
+what will the weather be in umatilla malta	O O O O O O B-city B-country
+what is the gearhart forecast	O O O B-city O
+what is the forecast for around putnam lake	O O O O O B-spatial_relation B-city I-city
+what is the weather in twenty three minutes in nv	O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-state
+how is the weather in oh	O O O O O B-state
+what is the british virgin islands forecast for next november	O O O B-country I-country I-country O O B-timeRange I-timeRange
+weather on september 14 in crofton ukraine	O O B-timeRange I-timeRange O B-city B-country
+can you give me the forecast for keytesville for 12 minutes from now	O O O O O O O B-city O B-timeRange I-timeRange I-timeRange I-timeRange
+what will the weathr be in akin jamaica	O O O O O O B-city B-country
+what will the weather be like in the bahamas eleven years and a half from now	O O O O O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+what will the weather be like in nickelsville	O O O O O O O B-city
+what s the weather forecast for mansfield	O O O O O O B-city
+how will the weather be this summer in new york	O O O O O B-timeRange I-timeRange O B-state I-state
+what is the forcast now in kansas	O O O O B-timeRange O B-state
+whats the forecast for redby	O O O O B-city
+what s the weather forecast for connecticut	O O O O O O B-state
+what is the weather in port vue	O O O O O B-city I-city
+what is the forecast for farmerville in cape verde	O O O O O B-city O B-country I-country
+what s the weather in niagara	O O O O O B-city
+what is the weather now in james city	O O O O B-timeRange O B-city I-city
+what is the weather in steward	O O O O O B-city
+forecast for vi	O O B-state
+what will the weather be in palm bay pa	O O O O O O B-city I-city B-state
+what is the weather forecast for maryland	O O O O O O B-state
+weather for burr	O O B-city
+what is forecast in keyes summit in new mexico at 3 pm	O O O O B-city I-city O B-state I-state O B-timeRange I-timeRange
+what s the weather in paulette yemen	O O O O O B-city B-country
+is it nice in pw	O O O O B-state
+can you tell me what the weather is doing in north epworth guam	O O O O O O O O O O B-city I-city B-country
+what will the weather be in angle cape verde at midnight	O O O O O O B-city B-country I-country O B-timeRange
+show weather forecast in kenya	O O O O B-country
+tell me the weather forecast thirteen seconds from now in ukraine	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country
+what will the weather be in mascoutah tanzania at 09:04:38 am	O O O O O O B-city B-country O B-timeRange I-timeRange
+what will the weather be like in three weeks in gates michigan	O O O O O O B-timeRange I-timeRange I-timeRange O B-city B-state
+what is the weather in gem	O O O O O B-city
+what s the weather in parthenon	O O O O O B-city
+what s the weather in waretown lebanon	O O O O O B-city B-country
+check the forecast for orson for around 9 pm	O O O O B-city O O B-timeRange I-timeRange
+what will the weather be in romania at 4	O O O O O O B-country O B-timeRange
+what will the weather be like in the falkland islands starting may 25 2022	O O O O O O O O B-country I-country O B-timeRange I-timeRange I-timeRange
+what s the weather in oregon	O O O O O B-state
+what is the weather in neighboring oh	O O O O O B-spatial_relation B-state
+weather for nearby roselle	O O B-spatial_relation B-city
+what kind of weather will be in va 12 years from now	O O O O O O O B-state B-timeRange I-timeRange I-timeRange I-timeRange
+what is the forecast for sanibel	O O O O O B-city
+what s the weather forecast for sweden on oct the fifth	O O O O O O B-country O B-timeRange I-timeRange I-timeRange
+what is the weather forecast for laos	O O O O O O B-country
+tell me the weather forecast faraway from tx	O O O O O B-spatial_relation O B-state
+what is the weather in arkansas the city of morrison	O O O O O B-state O O O B-city
+weather for oct 16 in mo	O O B-timeRange I-timeRange O B-state
+weather for six am in sc	O O B-timeRange I-timeRange O B-state
+what will the weather be in fl on 1/11/2030	O O O O O O B-state O B-timeRange
+what s the forecast for mt next week	O O O O O B-state B-timeRange I-timeRange
+what s the weather forecast for delaware right now	O O O O O O B-state O B-timeRange
+forecast for laguna heights barbados	O O B-city I-city B-country
+what is the forecast for 8/26/2022 in vermont	O O O O O B-timeRange O B-state
+i need to know what the weather will be like in gradyville at breakfast in the state of colorado	O O O O O O O O O O O B-city O B-timeRange O O O O B-state
+what is the weather forecast for east cleveland republic of the congo	O O O O O O B-city I-city B-country I-country I-country I-country
+check the forecast for zena arkansas on last day of passover	O O O O B-city B-state O B-timeRange I-timeRange I-timeRange I-timeRange
+i need the weather in muncie	O O O O O B-city
+what will the weather be in croatia	O O O O O O B-country
+what is the weather like now in washington	O O O O O B-timeRange O B-state
+what s the weather in ri	O O O O O B-state
+what will the weather be like in fourteen hours in eastville	O O O O O O O B-timeRange I-timeRange O B-city
+i need to know the weather for san martin	O O O O O O O B-city I-city
+what is the october 19th forecast for iran	O O O B-timeRange I-timeRange O O B-country
+what s the weather in mettawa oklahoma	O O O O O B-city B-state
+weather for afghanistan in one minute	O O B-country B-timeRange I-timeRange I-timeRange
+what is the weather forecast tomorrow in french ut	O O O O O B-timeRange O B-city B-state
+what s the forecast for il around tea time	O O O O O B-state O B-timeRange O
+i need a weather forecast for laos at one am	O O O O O O B-country O B-timeRange I-timeRange
+give me the weather forecast for the city of archie	O O O O O O O O O B-city
+tell me the weather forecast for azerbaijan	O O O O O O B-country
+tell me the weather forecast for apr twenty-fourth 2028 in san diego	O O O O O O B-timeRange I-timeRange I-timeRange O B-city I-city
+what is the coulee city mt forecast	O O O B-city I-city B-state O
+what is the weather like in montchanin nv	O O O O O O B-city B-state
+what is the weather forecast for kinbrae	O O O O O O B-city
+what will the weather be at noon in durbin oh	O O O O O O B-timeRange O B-city B-state
+what s the weather in piperton rwanda	O O O O O B-city B-country
+what is the weather forecast for new mexico	O O O O O O B-state I-state
+what s the weather forecast at sixteen in oklahoma	O O O O O O B-timeRange O B-state
+show weather forecast in west crossett luxembourg in fourteen minutes	O O O O B-city I-city B-country B-timeRange I-timeRange I-timeRange
+tell me the weather forecast for cape verde	O O O O O O B-country I-country
+what is the forecast this month in kosovo	O O O O B-timeRange I-timeRange O B-country
+i d like the weather forecast for albania	O O O O O O O B-country
+what is the weather forecast for la cienega	O O O O O O B-city I-city
+what is the weather doing in south carolina right now	O O O O O O B-state I-state O B-timeRange
+what is temperature in benin now	O O O O B-country B-timeRange
+check the weather forecast for sappho	O O O O O B-city
+what s the weather forecast for devils den	O O O O O O B-city I-city
+what is the weather like now in ak	O O O O O B-timeRange O B-state
+what will the weather be at thirteen in nj	O O O O O O B-timeRange O B-state
+what weather is in saint vincent and the grenadines on thursday	O O O O B-country I-country I-country I-country I-country O B-timeRange
+what will the weather be like in 1 hour in bethesda	O O O O O O B-timeRange I-timeRange I-timeRange O B-city
+i need the weather for 7/13/2036 in gwynedd valley	O O O O O B-timeRange O B-city I-city
+tell me the weather forecast for inniswold réunion	O O O O O O B-city B-country
+what is the weather forecast for moffett	O O O O O O B-city
+what s the forecast for emily florida for aug 17th 2020	O O O O O B-city B-state O B-timeRange I-timeRange I-timeRange
+what s the weather for mccracken in niger	O O O O O B-city O B-country
+what s the weather in belize close to ten pm	O O O O O B-country B-spatial_relation O B-timeRange I-timeRange
+what s the forecast for the weather at eight am in oxford	O O O O O O O O B-timeRange I-timeRange O B-city
+what is the weather in mascotte	O O O O O B-city
+what is the weather of pine city	O O O O O B-city I-city
+what s the forecast for wendell	O O O O O B-city
+can you give me the forecast for 11 in bradner ia	O O O O O O O B-timeRange O B-city B-state
+what is the weather nearby bermuda a week from now	O O O O B-spatial_relation B-country B-timeRange I-timeRange I-timeRange I-timeRange
+what is the forecast now in duson	O O O O B-timeRange O B-city
+tell me the weather forecast for croatia now	O O O O O O B-country B-timeRange
+is it going to be nicer next week in hamel belize	O O O O O O B-timeRange I-timeRange O B-city B-country
+what will the weather be in worthington springs	O O O O O O B-city I-city
+what will the weather be like four seconds from now in south dakota	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-state I-state
+will it be raining one hundred thirty days from now ion gobles canada	O O O O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange O B-city B-country
+give me the weather forecast in boma for next summer	O O O O O O B-city O B-timeRange I-timeRange
+show weather forecast for lewis center	O O O O B-city I-city
+what is the idledale forecast	O O O B-city O
+what is the weather forecast for winger	O O O O O O B-city
+check the weather forecast for biscay	O O O O O B-city
+i need a forecast for zachary	O O O O O B-city
+how s the forecast for chad on september 28 2034	O O O O O B-country O B-timeRange I-timeRange I-timeRange
+what s the weather in paris	O O O O O B-city
+what s the weather forecast for tomorrow around sankertown	O O O O O O B-timeRange B-spatial_relation B-city
+what is the weather forecast for manassa	O O O O O O B-city
+what s the weather forecast ten years from now in mount victory macao	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city I-city B-country
+what is the weather looking like in prosser on feb the 18th	O O O O O O O B-city O B-timeRange I-timeRange I-timeRange
+what is the weather looking like for december the eleventh 2034 in md	O O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-state
+can you give me the forecast for osgood	O O O O O O O B-city
+what will the weather be in bernie id	O O O O O O B-city B-state
+what s the weather in south hill	O O O O O B-city I-city
+what is the loco weather forecast	O O O B-city O O
+what is the weather starting at 11:47:52 for south africa	O O O O O O B-timeRange O B-country I-country
+what is the temperate in beltsville	O O O O O B-city
+what is the weather in deeth	O O O O O B-city
+weather for notasulga at elevenses	O O B-city O B-timeRange
+at thirteen hundred hours what will the weather be on ghana	O B-timeRange B-timeRange B-timeRange O O O O O O B-country
+what is the weather like right now in the same area as georgia	O O O O O O B-timeRange B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state
+what is the expected weather forecast for beckley	O O O O O O O B-city
+can you tell me the weather conditions for patricia	O O O O O O O O B-city
+what s the weather forecast for 8 hours from now in cape verde	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country I-country
+show the forecast for two years from now in lake telemark sudan	O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city I-city B-country
+what s the weather forecast for haigler	O O O O O O B-city
+what s the weather in andorra	O O O O O B-country
+what is the weather forecast for maryland	O O O O O O B-state
+show weather forecast in east tawakoni italy at four pm	O O O O B-city I-city B-country O B-timeRange I-timeRange
+what is the weather forecast for nassau bay uzbekistan	O O O O O O B-city I-city B-country
+what is the forecast for lesotho for starting this fall	O O O O O B-country O O B-timeRange I-timeRange
+what will it be like feb the twentieth in colorado	O O O O O B-timeRange I-timeRange I-timeRange O B-state
+what s the weather forecast for spain	O O O O O O B-country
+give me the weather forecast in zimbabwe	O O O O O O B-country
+what is the forecast for petersville oh	O O O O O B-city B-state
+what is the thursday forecast for akers new hampshire	O O O B-timeRange O O B-city B-state I-state
+what s the weather two months from now in arletta malawi	O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city B-country
+what will the weather be one hour from now in as	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-state
+what s the weather at four pm in honduras	O O O O O B-timeRange I-timeRange O B-country
+what will the weather be in hillview	O O O O O O B-city
+forecast for conrad	O O B-city
+tell me the weather forecast for 10/21/2024 in metamora	O O O O O O B-timeRange O B-city
+weather for coaldale arkansas	O O B-city B-state
+check the weather forecast for chisholm kentucky	O O O O O B-city B-state
+what is the temperature in western sahara or within the same area three seconds from now	O O O O O B-country I-country O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation B-timeRange I-timeRange I-timeRange I-timeRange
+what is the six o clock forecast for west selmont in montserrat	O O O B-timeRange I-timeRange I-timeRange O O B-city I-city O B-country
+can you tell me the weather forecast for denmark	O O O O O O O O B-city
+what s the weather in dazey	O O O O O B-city
+tell me the weather forecast in greensburg	O O O O O O B-city
+what is the weather forecast faraway from ri seven months from now	O O O O O B-spatial_relation O B-state B-timeRange I-timeRange I-timeRange I-timeRange
+at 7 pm what will the weather be in iceland	O B-timeRange I-timeRange O O O O O O B-country
+forecast for switzer	O O B-city
+weather in selinsgrove	O O B-city
+what is the weather forecast for kaaawa	O O O O O O B-city
+i want food in zaleski	O O O O B-city
+what is the weather forecast for north carolina	O O O O O O B-state I-state
+what is the weather forecast in pinson south dakota	O O O O O O B-city B-state I-state
+what is the forecast for next may in zambia	O O O O O B-timeRange I-timeRange O B-country
+what will the weather be this month in wesley hills	O O O O O B-timeRange I-timeRange O B-city I-city
+check the weather for around nine in south georgia and the south sandwich islands	O O O O O B-timeRange O B-country I-country I-country I-country I-country I-country I-country
+what is the weather like in colorado	O O O O O O B-state
+how will the weather be at 8 am in ct	O O O O O O B-timeRange I-timeRange O B-state
+whats the weather forecast in nicaragua	O O O O O B-country
+what is the weather forecast for waipio acres	O O O O O O B-city I-city
+what s the weather in kiahsville in the cayman islands	O O O O O B-city O O B-country I-country
+what s the weather forecast in melcher-dallas	O O O O O O B-city
+what will the weather be in overton at 8 pm	O O O O O O B-city O B-timeRange I-timeRange
+how s the weather in mowrystown	O O O O O B-city
+what will be the forecast for belarus in the future around sep the 22nd 2020	O O O O O O B-country O O O O B-timeRange I-timeRange I-timeRange I-timeRange
+weather 1 minute from now in camden point zambia	O B-timeRange I-timeRange I-timeRange I-timeRange O B-city I-city B-country
+what weather is predicted for loyalhanna	O O O O O B-city
+what is the mt forecast for 22	O O O B-state O O B-timeRange
+i need the weather at eleven am in argentina	O O O O O B-timeRange I-timeRange O B-country
+tell me the weather forecast for alexander sd	O O O O O O B-city B-state
+what is the pw forecast for jul 9 in robert	O O O B-state O O B-timeRange I-timeRange O B-city
+what will the weather be in mattawan saint barthélemy	O O O O O O B-city B-country I-country
+what is the weather forecast for ridge farm new york	O O O O O O B-city I-city B-state I-state
+show weather forcast for ms on jan the 9th 2034	O O O O B-state O B-timeRange I-timeRange I-timeRange I-timeRange
+forecast for willits christmas island twenty three minutes from now	O O B-city B-country I-country B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+shoe me the forecast for bonaire this fall	O O O O O B-country B-timeRange I-timeRange
+hows the weather looking for kendall green maryland	O O O O O B-city I-city B-state
+what s the forecast for harper me	O O O O O B-city B-state
+what s the weather going to be in yemen in one minute	O O O O O O O O B-country B-timeRange I-timeRange I-timeRange
+what s the weather going to be in parkers prairie va at 07:08:02 am	O O O O O O O O B-city I-city B-state O B-timeRange I-timeRange
+what s the weather next week in standard city	O O O O B-timeRange I-timeRange O B-city I-city
+show me the forecast for 6 years from now in westlake village in guinea	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city I-city O B-country
+tell me the weather forecast for ri	O O O O O O B-state
+show weather forecast close-by ms in 48 and a half weeks	O O O B-spatial_relation B-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+what s the weather in the marshall islands in sixteen hours	O O O O O O B-country I-country B-timeRange I-timeRange I-timeRange
+can you tell me the forecast for east falmouth hungary	O O O O O O O B-city I-city B-country
+forecast for israel	O O B-country
+what is the weather forecast for three in whitewood rhode island	O O O O O O B-timeRange O B-city B-state I-state
+weather in tioga colorado	O O B-city B-state
+what s the weather like today in plankinton	O O O O O B-timeRange O B-city
+what is the weather forecast for june the third in rileyville co	O O O O O O B-timeRange I-timeRange I-timeRange O B-city B-state
+what is the forecasted weather for ninaview	O O O O O O B-city
+what will the weather be in bayside on sep 21 2034	O O O O O O B-city O B-timeRange I-timeRange I-timeRange
+what s the weather like in serbia	O O O O O O B-country
+give me slovakia s weather forecast for eight am	O O B-country O O O O B-timeRange I-timeRange
+what is the forecast for close to texas	O O O O O B-spatial_relation O B-state
+what is the poland forecast for next january	O O O B-country O O B-timeRange I-timeRange
+what s the weather forecast for wisconsin	O O O O O O B-state
+what will the weather be in in	O O O O O O B-state
+what is the weather forecast for garrison	O O O O O O B-city
+what is the temperature for montserrat on sep the fourth 2024	O O O O O B-country O B-timeRange I-timeRange I-timeRange I-timeRange
+what is the forecast for this fall in lesotho	O O O O O B-timeRange I-timeRange O B-country
+what s the weather forecast for 3 hours from now at christmas island	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country I-country
+will it be nice now in norway	O O O O B-timeRange O B-country
+what is the weather forecast in spaulding morocco	O O O O O O B-city B-country
+what s the weather like in boca raton ia	O O O O O O B-city I-city B-state
+what is the weather forecast in country club heights	O O O O O O B-city I-city I-city
+what is the weather like in antonito	O O O O O O B-city
+what is the weather like in long beach united kingdom	O O O O O O B-city I-city B-country I-country
+what s the weather supposed to be like in elmer city	O O O O O O O O O B-city I-city
+what s the weather forecast close by sligo	O O O O O B-spatial_relation I-spatial_relation B-city
+what will it feel like on oct 21 in ky	O O O O O O B-timeRange I-timeRange O B-state
+what is the weather like in roeland park guadeloupe	O O O O O O B-city I-city B-country
+how is the weather in mount olivet	O O O O O B-city I-city
+what s the weather looking like in reklaw at 03:19:13 pm	O O O O O O O B-city O B-timeRange I-timeRange
+i d like the weather forecast in gang mills four years from now	O O O O O O O B-city I-city B-timeRange I-timeRange I-timeRange I-timeRange
+what s the forecast for fort payne american samoa this march twentieth	O O O O O B-city I-city B-state I-state O B-timeRange I-timeRange
+tell me the weather forecast for september 21 2030 in palau	O O O O O O B-timeRange I-timeRange I-timeRange O B-state
+can you tell me the weather forecast for three o clock in de	O O O O O O O O B-timeRange I-timeRange I-timeRange O B-state
+what is the weather going to be like on st patrick s day	O O O O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange
+show weather forecast in as	O O O O B-state
+what is the forecast next year in mcgee	O O O O B-timeRange I-timeRange O B-city
+show me the dresden weather forecast	O O O B-city O O
+give me the weather forecast for the city of woburn	O O O O O O O O O B-city
+what s the weather in south punta gorda heights	O O O O O B-city I-city I-city I-city
+what is the forecast in lono	O O O O O B-city
+what is the forecast at 12 am in sudan	O O O O O B-timeRange I-timeRange O B-country
+what aree the weather conditions not far from poneto	O O O O O B-spatial_relation I-spatial_relation O B-city
+what is the 10 pm forecast for sweet springs wyoming	O O O B-timeRange I-timeRange O O B-city I-city B-state
+what will the weather be like in samoa at 6 pm	O O O O O O O B-country O B-timeRange I-timeRange
+what s the weather in the u s virgin islands	O O O O O O B-country I-country I-country I-country
+how will the weather be in new mexico around 00:09:07 am	O O O O O O B-state I-state O B-timeRange I-timeRange
+what s the weather in blackman jordan	O O O O O B-city B-country
+what will the weather be at ten am in fourche nv	O O O O O O B-timeRange I-timeRange O B-city B-state
+what s it feel like in north gulfport	O O O O O O B-city I-city
+what s the weather forecast for winnfield georgia	O O O O O O B-city B-state
+what s the weather forecast in humphrey	O O O O O O B-city
+forecast for 02:22 pm maldives	O O B-timeRange I-timeRange B-country
+what s the weather like in mountainair	O O O O O O B-city
+what is the wauseon forecast	O O O B-city O
+tell me the weather forecast for roseburg iowa	O O O O O O B-city B-state
+forecast for 11 am in nauru	O O B-timeRange I-timeRange O B-country
+what s the weather in mayotte	O O O O O B-country
+weather forecast of lakebay	O O O B-city
+what s the weather going to be like in angola twenty minutes from now	O O O O O O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange
+check the weather for faroe islands	O O O O B-country I-country
+weather for five am in osyka bhutan	O O B-timeRange I-timeRange O B-city B-country
+what is the weather in taiwan	O O O O O B-country
+what will the weather be like at 3 am in trinidad and tobago	O O O O O O O B-timeRange I-timeRange O B-country I-country I-country
+what is the weather like in wallis and futuna	O O O O O O B-country I-country I-country
+what s the weather forecast in the same area of me on apr 20	O O O O O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state O B-timeRange I-timeRange
+forecast for morse shores kansas	O O B-city I-city B-state
+what s the weather forecast for seychelles	O O O O O O B-country
+show me a forecast for malaysia	O O O O O B-country
+what s the weather forecast for baker city	O O O O O O B-city I-city
+tell me the weather forecast for niue	O O O O O O B-country
+what is the weather in shenandoah heights montenegro	O O O O O B-city I-city B-country
+what s the weather close to cambodia at 05:44:13	O O O O B-spatial_relation O B-country O B-timeRange
+what s the weather forecast for tn on december seventh 2026	O O O O O O B-state O B-timeRange I-timeRange I-timeRange
+i need the weather in nd in three hundred fifty one days	O O O O O B-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+weather for noon in ca	O O B-timeRange O B-state
+what are the weather conditions in patagonia south africa	O O O O O O B-city B-country I-country
+what s the forecast for ks for jan first	O O O O O B-state O B-timeRange I-timeRange
+what is the weather forecast in 2 seconds for south carolina	O O O O O B-timeRange I-timeRange I-timeRange O B-state I-state
+what will the weather be like may the 10th in rocky boy wi	O O O O O O B-timeRange I-timeRange I-timeRange O B-city I-city B-state
+what s the weather in gabon	O O O O O B-country
+what is the weather like in texas	O O O O O O B-state
+weather for apr the thirteenth in djibouti	O O B-timeRange I-timeRange I-timeRange O B-country
+weather for jun ninth 2033 in san pierre romania	O O B-timeRange I-timeRange I-timeRange O B-city I-city B-country
+what will the weather be ten minutes from now in canada	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country
+what will the temperature be at midnight in ne	O O O O O O B-timeRange O B-state
+what is the weather forecast in ulen on mar 2nd 2035	O O O O O O B-city O B-timeRange I-timeRange I-timeRange
+forecast for econfina	O O B-city
+how is the weather going to be on child health day in trinidad and tobago	O O O O O O O O B-timeRange I-timeRange I-timeRange O B-country I-country I-country
+what s the weather forecast for austin liechtenstein	O O O O O O B-city B-country
+what s the forecase for inverness on february 5th 2031	O O O O O B-city O B-timeRange I-timeRange I-timeRange
+what is the weather for yemen	O O O O O B-country
+how is the weather going to be this week in roseau ia	O O O O O O O B-timeRange I-timeRange O B-city B-state
+what s the weather in hi	O O O O O B-state
+what s the weather forecast in the same area as la in 1 minute	O O O O O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state B-timeRange I-timeRange I-timeRange
+what will the weather be like in new glarus	O O O O O O O B-city I-city
+what s the weather forecast for anniston	O O O O O O B-city
+how will the weather be in six minutes close to moosic	O O O O O B-timeRange I-timeRange I-timeRange B-spatial_relation O B-city
+what is the weather forecast in nine months within walking distance of ohio	O O O O O B-timeRange I-timeRange I-timeRange B-spatial_relation I-spatial_relation I-spatial_relation O B-state
+what is the weather like in ia in april	O O O O O O B-state O B-timeRange
+what is the meal time forecast for cayman islands	O O O B-timeRange O O O B-country I-country
+what s the weather like in forty fort	O O O O O O B-city I-city
+what is the forecast for the distant future in sugar bush	O O O O O O B-spatial_relation O O B-city I-city
+give me the weather forecast for wisconsin dells in saint kitts and nevis on the day after tomorrow	O O O O O O B-city I-city O B-country I-country I-country I-country O B-timeRange I-timeRange I-timeRange I-timeRange
+what s the weather in singapore	O O O O O B-country
+how is the weather in edesville mn	O O O O O B-city B-state
+show weather forecast at three am in wauregan	O O O O B-timeRange I-timeRange O B-city
+what s the weather forecast in guadeloupe eleven weeks from now	O O O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange
+what will the weather be like nine years from now in eastport el salvador	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city B-country I-country
+what s the weather like around laos	O O O O O B-spatial_relation B-country
+what is the forecast in the same area as fiji	O O O O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-country
+weather for lowden ok	O O B-city B-state
+what does it feel like in connecticut	O O O O O O B-state
+what is the weather in the netherlands	O O O O O O B-country
+what is the mississippi for the week	O O O B-state O O B-timeRange
+what kind of weather will be in windy hills bermuda in ten weeks	O O O O O O O B-city I-city B-country B-timeRange I-timeRange I-timeRange
+what will the weather conditions be in hahntown wyoming at 1	O O O O O O O B-city B-state O B-timeRange
+can you give me the forecast for 10:15 in paraguay	O O O O O O O B-timeRange O B-country
+check the weather for eagle harbor tanzania	O O O O B-city I-city B-country
+what will the weather be like in brownfield	O O O O O O O B-city
+i need to know the weather for hamorton tn	O O O O O O O B-city B-state
+what is the weather forecast for wa on september 11 2021	O O O O O O B-state O B-timeRange I-timeRange I-timeRange
+what is the weather close to somesville on mon	O O O O B-spatial_relation O B-city O B-timeRange
+what is the weather forecast for maryland	O O O O O O B-state
+what will the weather be in allenwood	O O O O O O B-city
+what s the weather in germantown hills	O O O O O B-city I-city
+check the weather forecast in seven weeks for emida	O O O O B-timeRange I-timeRange I-timeRange O B-city
+what is the weather forecast for minnesota	O O O O O O B-state
+what will be the weather like in turks and caicos islands around dec sixth 2032	O O O O O O O B-country I-country I-country I-country O B-timeRange I-timeRange I-timeRange
+what will it feel like on patriot s day on south georgia and the south sandwich islands	O O O O O O B-timeRange I-timeRange I-timeRange O B-country I-country I-country I-country I-country I-country I-country
+what s the weather forecast for crystal lake park	O O O O O O B-city I-city I-city
+what weather will it be in battlement mesa	O O O O O O B-city I-city
+what is the weather forecast for nicaragua	O O O O O O B-country
+what s the wather in coleville kenya	O O O O O B-city B-country
+what is the weather forecast for siler city russia	O O O O O O B-city I-city B-country
+give me the weather forecast for zambia	O O O O O O B-country
+what is the me forecast for joanna	O O O B-state O O B-city
+what will the weather be like at noon in brunei	O O O O O O O B-timeRange O B-country
+what s the forecast for spenard gu	O O O O O B-city B-state
+tell me the forecast for sweden	O O O O O B-country
+tell me the weather forecast for ethridge maryland	O O O O O O B-city B-state
+can you send me the weather forecast for malcom	O O O O O O O O B-city
+what is the weather like in cameroon	O O O O O O B-country
+what s the weather in pennsylvania	O O O O O B-state
+what will the weather be in kokhanok	O O O O O O B-city
+what is the pennsylvania forecast for three forks for midnight	O O O B-state O O B-city I-city O B-timeRange
+what will the weather be in montserrat	O O O O O O B-country
+how s the weather in grisdale bangladesh	O O O O O B-city B-country
+forecast for thayer	O O B-city
+when it comes to dukes and the district of columbia what will the weather be in one hour	O O O O B-city O O B-state I-state I-state O O O O O B-timeRange I-timeRange I-timeRange
+tell me the weather forecast close to romania	O O O O O B-spatial_relation O B-country
+how will the weather be in six and a half months in co	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange O B-state
+what s the weather like when you re distant from greenport	O O O O O O O O B-spatial_relation O B-city
+tell me the weather forecast for wy	O O O O O O B-state
+what is the weather forecast for yoakum sc	O O O O O O B-city B-state
+what will the weather be in lamar	O O O O O O B-city
+can you tell me the weather forecast for samoa	O O O O O O O O B-country
+what will the weather be in michigan	O O O O O O B-state
+what is the weather forecast for north carolina on october thirteenth 2037	O O O O O O B-state I-state O B-timeRange I-timeRange I-timeRange
+what will the weather be like on november the twelfth in appleby	O O O O O O O B-timeRange I-timeRange I-timeRange O B-city
+what is the weather like in midfield iowa today	O O O O O O B-city B-state B-timeRange
+can i get the weather forecast for benin in 32 days	O O O O O O O B-country B-timeRange I-timeRange I-timeRange
+whats the forecast for greece	O O O O B-country
+what s the weather forecast for lenexa united kingdom at 02:31	O O O O O O B-city B-country I-country O B-timeRange
+forecast for samoa next sat	O O B-country B-timeRange I-timeRange
+how will be the weather condition near mi 129 days and a half from now	O O O O O O B-spatial_relation B-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+weather for east peru bolivia 3 years and a half from now	O O B-city I-city B-country B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+what is the forecast for chandler	O O O O O B-city
+what s the weather on august seventh for crystal lawns guam	O O O O O B-timeRange I-timeRange O B-city I-city B-state
+what will the weather be like on september 26th in eastlake	O O O O O O O B-timeRange I-timeRange O B-city
+what will the weather be next apr in mt	O O O O O B-timeRange I-timeRange O B-state
+what is the weather supposed to be like at sunset in cosby kansas	O O O O O O O O O B-timeRange O B-city B-state
+give me the forecast for feb eleventh 2034 far from alaska	O O O O O B-timeRange I-timeRange I-timeRange B-spatial_relation O B-state
+in 257 days what will the weather be like in cannon ball	B-timeRange I-timeRange I-timeRange O O O O O O O B-city I-city
+what is the forecast starting at 8 pm for alaska	O O O O O O B-timeRange I-timeRange O B-state
+what will the weather be like at eight pm in bon air uruguay	O O O O O O O B-timeRange I-timeRange O B-city I-city B-country
+what is the weather forecast now in texas	O O O O O B-timeRange O B-state
+tell me the weather forecast for france	O O O O O O B-country
+what s the weather forecast for arizona city	O O O O O O B-city I-city
+what s the weather on groundhog day in slovenia	O O O O O B-timeRange I-timeRange O B-country
+weather at breakfast in montana	O O B-timeRange O B-state
+what is a weather of martinique a month from now	O O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange
+how s the forecast looking for supper time in dresbach vanuatu	O O O O O O B-timeRange O O B-city B-country
+what is the weather like in detroit	O O O O O O B-city
+what s the weather like in topock	O O O O O O B-city
+weather for jan 7 in north carolina	O O B-timeRange I-timeRange O B-state I-state
+what will the weather be like 20 minutes from now in homestead meadows in martinique	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city I-city O B-country
+what will the weather be like in 15 and a half weeks in china	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange O B-country
+what is the forecast in north carolina	O O O O O B-state I-state
+what is the weather forecast in langdon	O O O O O O B-city
+what s the weather in new zealand	O O O O O B-country I-country
+i d like to see weather conditions for ennis	O O O O O O O O B-city
+what is the forecast for 1 pm in minnesota	O O O O O B-timeRange I-timeRange O B-state
+what will the weather be in albania at 11:56	O O O O O O B-country O B-timeRange
+what s the weather in gu on jul the 4th 2024	O O O O O B-state O B-timeRange I-timeRange I-timeRange I-timeRange
+show the forecast nearby in twenty two minutes in french polynesia	O O O B-spatial_relation B-timeRange I-timeRange I-timeRange I-timeRange O B-country I-country
+tell me the weather forecast for june seventeenth 2034 in fl	O O O O O O B-timeRange I-timeRange I-timeRange O B-state
+what is the weather in lloyd equatorial guinea	O O O O O B-city B-country I-country
+what is the weather forecast for naches sierra leone	O O O O O O B-city B-country I-country
+what is the orlovista forecast for midday within walking distance	O O O B-city O O B-timeRange B-spatial_relation I-spatial_relation I-spatial_relation
+what s the forecast in stobo	O O O O O B-city
+tell me how bellwood weather is	O O O B-city O O
+what s the weather forecast for niue at two am	O O O O O O B-country O B-timeRange I-timeRange
+whats the weather in fernando new jersey	O O O O B-city B-state I-state
+weather in one minute in norfolk island	O B-timeRange I-timeRange I-timeRange O B-country I-country
+what s the weather forecast for hooven lithuania on national grandparents day	O O O O O O B-city B-country O B-timeRange I-timeRange I-timeRange
+can you give me the weather forecast for nov 9th for lakeview heights la	O O O O O O O O B-timeRange I-timeRange O B-city I-city B-state
+is it going to be nice in sandoval belgium	O O O O O O O B-city B-country
+what s the weather in new beaver	O O O O O B-city I-city
+what s the weather for new york on july the 28th 2032	O O O O O B-state I-state O B-timeRange I-timeRange I-timeRange I-timeRange
+what is the weather going to be like this evening in arkansas	O O O O O O O O O B-timeRange O B-state
+what will the weather be in norway at sunset	O O O O O O B-country O B-timeRange
+weather for knierim kansas in twelve weeks and a half from now	O O B-city B-state O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+what is the weather going to be like in reidland new mexico next jun	O O O O O O O O O B-city B-state I-state B-timeRange I-timeRange
+i d like to know how the weather will be at 8 pm in tennessee	O O O O O O O O O O O B-timeRange I-timeRange O B-state
+what is the weather for charlotte hall saint kitts and nevis	O O O O O B-city I-city B-country I-country I-country I-country
+what are the weather conditions going to be like in manhasset vermont on dec the 6th 2036	O O O O O O O O O O B-city B-state O B-timeRange I-timeRange I-timeRange I-timeRange
+at ten am what will the weather be like nearby in cyprus	O B-timeRange I-timeRange O O O O O O B-spatial_relation O B-country
+how will the weather be this month in or	O O O O O B-timeRange I-timeRange O B-state
+how will be the weather in waltersville in one hour	O O O O O O B-city B-timeRange I-timeRange I-timeRange
+what s the weather like in hamilton city	O O O O O O B-city I-city
+tell me the weather forecast for gibsland	O O O O O O B-city
+weather next year in dominica	O B-timeRange I-timeRange O B-country
+what will the weather be in 1 day in kuwait	O O O O O B-timeRange I-timeRange I-timeRange O B-country
+what kind of weather will be in ukraine one minute from now	O O O O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange
+what s the weather going to be in ut	O O O O O O O O B-state
+what will the weather be in north carolina	O O O O O O B-state I-state
+what is the forecast starting 11 weeks from now nearby the state of wisconsin	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange B-spatial_relation O O O B-state
+check the forecast for nebraska	O O O O B-state
+what will the weather be nineteen hours from now neighboring saint kitts and nevis	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange B-spatial_relation B-country I-country I-country I-country
+what s the weather going to be in knobel	O O O O O O O O B-city
+what will the weather be in dane on sep the fifth 2030	O O O O O O B-city O B-timeRange I-timeRange I-timeRange I-timeRange
+what will the weather be in ohio	O O O O O O B-state
+i need to know the weather for jan the 3rd in mexico when i go to port vue	O O O O O O O B-timeRange I-timeRange I-timeRange O B-country O O O O B-city I-city
+what kind of weather is forecast around one pm near vatican	O O O O O O O B-timeRange I-timeRange B-spatial_relation B-country
+what is the weather going to be like in virginia on st patrick s day	O O O O O O O O O B-state O B-timeRange I-timeRange I-timeRange I-timeRange
+weather in kaneville maryland	O O B-city B-state
+when is sunrise for ar	O O B-timeRange O B-state
+what is the forecast for waurika in samoa	O O O O O B-city O B-country
+what is the weather forecast nearby nicodemus	O O O O O B-spatial_relation B-city
+what will the weather be in nov in brookneal	O O O O O O B-timeRange O B-city
+what is the weather forecast for burundi	O O O O O O B-country
+what s the weather in benton city	O O O O O B-city I-city
+what will the weather be in ky on oct 16 2036	O O O O O O B-state O B-timeRange I-timeRange I-timeRange
+what will the weather be one second from now in chad	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country
+what kind of weather is forecast in ms now	O O O O O O O B-state B-timeRange
+what is the forecast for morocco at lake ozark on december seventeenth 2022	O O O O O B-country O B-city I-city O B-timeRange I-timeRange I-timeRange
+what is the forecast in nicodemus and nearby	O O O O O B-city O B-spatial_relation
+what is the weather going to be like in benton colorado in 2 and a half months	O O O O O O O O O B-city B-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+what is the forecast for beginning on nov 17 for franklinville	O O O O O O O B-timeRange I-timeRange O B-city
+what s the forecast for sep 26 in emerado saint pierre and miquelon	O O O O O B-timeRange I-timeRange O B-city B-country I-country I-country I-country
+what s the weather like in tyonek new jersey	O O O O O O B-city B-state I-state
+what will the weather be in hialeah gardens on october the 24th	O O O O O O B-city I-city O B-timeRange I-timeRange I-timeRange
+what is the forecast in admire in tx starting at seventeen	O O O O O B-city O B-state O O B-timeRange
+what is the forecast in north carolina for edgemoor	O O O O O B-state I-state O B-city
+what is the forecast for costa rica	O O O O O B-country I-country
+weather in walden russia on 12/26/2018	O O B-city B-country O B-timeRange
+i need the weather in wakarusa	O O O O O B-city
+tell me the weather forecast for ut on thursday	O O O O O O B-state O B-timeRange
+weather in two hours in uzbekistan	O B-timeRange I-timeRange I-timeRange O B-country
+what s the weather in fox chapel	O O O O O B-city I-city
+where is belgium located	O O B-country O
+what will the weather be in milleville beach	O O O O O O B-city I-city
+what will the weather be at nine am in hi	O O O O O O B-timeRange I-timeRange O B-state
+what will the weather be in lago vista on october fourteenth 2022	O O O O O O B-city I-city O B-timeRange I-timeRange I-timeRange
+weather next year in canada	O B-timeRange I-timeRange O B-country
+what is the weather of east portal ks	O O O O O B-city I-city B-state
+what will the weather be in berville ak on feb 6 2017	O O O O O O B-city B-state O B-timeRange I-timeRange I-timeRange
+what is the forecast in heber	O O O O O B-city
+show me the weather forecast for the city of spencer	O O O O O O O O O B-city
+how is the weather in getzville minnesota	O O O O O B-city B-state
+i need a weather forecast for são tomé and príncipe on december 8th 2026	O O O O O O B-country I-country I-country I-country O B-timeRange I-timeRange I-timeRange
+what will the weather be in la at 9 o clock	O O O O O O B-state O B-timeRange I-timeRange I-timeRange
+what is the weather like in hurstville	O O O O O O B-city
+what will the weather be in waverly city brazil on purple heart day	O O O O O O B-city I-city B-country O B-timeRange I-timeRange I-timeRange
+what is the weather forecast in delaware	O O O O O O B-state
+what s the forecast for belize around meal time	O O O O O B-country O B-timeRange O
+what s the weather in low moor	O O O O O B-city I-city
+what is the weather like in north salt lake and afghanistan	O O O O O O B-city I-city I-city O B-country
+what s the weather like in schenectady ma	O O O O O O B-city B-state
+what s it like in bahrain right now	O O O O O B-country O B-timeRange
+on jan the twentieth what will it feel like in ct or the area not far from it	O B-timeRange I-timeRange I-timeRange O O O O O O B-state O O O B-spatial_relation I-spatial_relation O O
+can you tell me the weather forecast for samoa	O O O O O O O O B-country
+what will the weather be in grand coteau ut at six pm	O O O O O O B-city I-city B-state O B-timeRange I-timeRange
+forecast for serbia	O O B-country
+how will the weather be different 5 years from now in waconia	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city
+what is the niceville forecast in fm	O O O B-city O O B-state
+what is the forecast for montana at dinner	O O O O O B-state O B-timeRange
+what is the forecast for niger	O O O O O B-country
+what s the weather forecast for croatia on jul 25th	O O O O O O B-country O B-timeRange I-timeRange
+whats the weather in ga	O O O O B-state
+weather for ma in the morning	O O B-state O O B-timeRange
+will it be nice on aug the nineteenth in beda bulgaria	O O O O O B-timeRange I-timeRange I-timeRange O B-city B-country
+weather for the night time in new mexico	O O O B-timeRange O O B-state I-state
+what is the weather forecast for close-by burkina	O O O O O O B-spatial_relation B-country
+what is the weather forecast for cistern	O O O O O O B-city
+what will the weather be like on january 2nd 2025 in ga	O O O O O O O B-timeRange I-timeRange I-timeRange O B-state
+what is the weather in south bradenton	O O O O O B-city I-city
+what is the nh forecast for mexican hat	O O O B-state O O B-city I-city
+what is the weather forecast for close-by gu 3 years from now	O O O O O O B-spatial_relation B-state B-timeRange I-timeRange I-timeRange I-timeRange
+i need the wather for next week in the philippines	O O O O O B-timeRange I-timeRange O O B-country
+what s the weather in timbo	O O O O O B-city
+show weather while sunset in the same area in south carolina	O O O B-timeRange B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state I-state
+weather for beauregard il	O O B-city B-state

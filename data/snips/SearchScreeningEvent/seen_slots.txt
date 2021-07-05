@@ -1,0 +1,168 @@
+what are the movie schedules	O O O B-object_type I-object_type
+i want to see a list of local movie times	O O O O O O O O B-object_type I-object_type
+tell me the movie schedule	O O O B-object_type I-object_type
+please give me movie schedules	O O O B-object_type I-object_type
+find movie schedules	O B-object_type I-object_type
+give me the local movie times	O O O O B-object_type I-object_type
+where can i get movie schedule	O O O O B-object_type I-object_type
+show movie schedule	O B-object_type I-object_type
+when are the movie schedules	O O O B-object_type I-object_type
+i d like to see movie times please	O O O O O B-object_type I-object_type O
+give me some movie schedules	O O O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+show the movie schedule	O O B-object_type I-object_type
+show the movie schedule	O O B-object_type I-object_type
+list movie schedule	O B-object_type I-object_type
+find a movie schedule for 12 hours from now	O O B-object_type I-object_type O B-timeRange I-timeRange I-timeRange I-timeRange
+find movie schedules	O B-object_type I-object_type
+please tell me the movie schedules	O O O O B-object_type I-object_type
+please tell me movie times	O O O B-object_type I-object_type
+show me the movie schedules	O O O B-object_type I-object_type
+what movie schedule	O B-object_type I-object_type
+find the movie schedule	O O B-object_type I-object_type
+show movie times at sunrise	O B-object_type I-object_type O B-timeRange
+show the movie schedule	O O B-object_type I-object_type
+will you please pull up movie schedules for me	O O O O O B-object_type I-object_type O O
+find movie times	O B-object_type I-object_type
+what is the movie schedules	O O O B-object_type I-object_type
+find movie schedules for me	O B-object_type I-object_type O O
+list movie schedules	O B-object_type I-object_type
+find the movie schedule	O O B-object_type I-object_type
+please tell me the current and local movie times	O O O O O O O B-object_type I-object_type
+find the movie schedule	O O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+show movie times	O B-object_type I-object_type
+show movie times	O B-object_type I-object_type
+please find movie schedules	O O B-object_type I-object_type
+find the movie schedule	O O B-object_type I-object_type
+show the movie schedule	O O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+find movie schedules	O B-object_type I-object_type
+i want to see the local movie times	O O O O O O B-object_type I-object_type
+i m looking for local movie schedules	O O O O O B-object_type I-object_type
+show me the movie schedules	O O O B-object_type I-object_type
+list movie times with meal	O B-object_type I-object_type O B-timeRange
+please tell me the movie times	O O O O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+find the movie schedule	O O B-object_type I-object_type
+find me the movie schedules	O O O B-object_type I-object_type
+what are the movie schedules	O O O B-object_type I-object_type
+fine movie times	O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+show me the movie schedule	O O O B-object_type I-object_type
+show me movie times	O O B-object_type I-object_type
+find the movie times now	O O B-object_type I-object_type B-timeRange
+find the movie schedule for 12:53 am	O O B-object_type I-object_type O B-timeRange I-timeRange
+find me the movie times	O O O B-object_type I-object_type
+provide me the movie schedules	O O O B-object_type I-object_type
+list movie schedule	O B-object_type I-object_type
+show me the movie schedule	O O O B-object_type I-object_type
+find a movie schedule	O O B-object_type I-object_type
+show movie schedules	O B-object_type I-object_type
+show me movie times at my local theater	O O B-object_type I-object_type O O O O
+what is the local movie schedule	O O O O B-object_type I-object_type
+find movie schedules	O B-object_type I-object_type
+show movie times	O B-object_type I-object_type
+show me the current movie times	O O O O B-object_type I-object_type
+list movie schedule	O B-object_type I-object_type
+find movie schedules	O B-object_type I-object_type
+find the movie schedule	O O B-object_type I-object_type
+please tell me the movie schedules	O O O O B-object_type I-object_type
+she me that movie schedule	O O O B-object_type I-object_type
+recite the movie schedule	O O B-object_type I-object_type
+i d like to see local movie times	O O O O O O B-object_type I-object_type
+find movie schedules	O B-object_type I-object_type
+show me movie schedule	O O B-object_type I-object_type
+where can i find the movie schedule	O O O O O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+where can i find the movie schedules	O O O O O B-object_type I-object_type
+show me the schedule of movie times	O O O B-object_type O B-object_type I-object_type
+show the movie schedule	O O B-object_type I-object_type
+find a movie schedule	O O B-object_type I-object_type
+can i have the movie schedules	O O O O B-object_type I-object_type
+find the movie schedules	O O B-object_type I-object_type
+please give me the movie schedule	O O O O B-object_type I-object_type
+what are the movie times	O O O B-object_type I-object_type
+find a movie schedule	O O B-object_type I-object_type
+find the movie schedule	O O B-object_type I-object_type
+what is the movie schedule for today	O O O B-object_type I-object_type O O
+can you give me a local and current movie schedule	O O O O O O O O B-object_type I-object_type
+find time for the movie schedule	O O O O B-object_type I-object_type
+can i see the movie schedules	O O O O B-object_type I-object_type
+please give me the movie schedules	O O O O B-object_type I-object_type
+can i have the movie schedules	O O O O B-object_type I-object_type
+find movie schedules	O B-object_type I-object_type
+what is the movie schedule near me	O O O B-object_type I-object_type O O
+what are the movie schedules	O O O B-object_type I-object_type
+what movie times	O B-object_type I-object_type
+please show me the movie schedule for today	O O O O B-object_type I-object_type O O
+can i have the movie schedule for right now	O O O O B-object_type I-object_type O O B-timeRange
+find the movie schedule	O O B-object_type I-object_type
+please shoe me the movie schedule for today	O O O O B-object_type I-object_type O O
+give me the local movie times	O O O O B-object_type I-object_type
+i need movie schedules	O O B-object_type I-object_type
+show the movie schedules	O O B-object_type I-object_type
+fine a movie schedule	O O B-object_type I-object_type
+find a movie schedule	O O B-object_type I-object_type
+find the movie schedules for me	O O B-object_type I-object_type O O
+show me movie schedules	O O B-object_type I-object_type
+show the schedule of movie times	O O B-object_type O B-object_type I-object_type
+what are the movie schedules	O O O B-object_type I-object_type
+show me a movie schedule	O O O B-object_type I-object_type
+find the movie schedule	O O B-object_type I-object_type
+give me the movie times	O O O B-object_type I-object_type
+show me the movie schedule	O O O B-object_type I-object_type
+can i see the upcoming movie schedule	O O O O O B-object_type I-object_type
+show movie times	O B-object_type I-object_type
+what is the movie times	O O O B-object_type I-object_type
+find a movie schedule	O O B-object_type I-object_type
+what movie times are there for 5 p m	O B-object_type I-object_type O O O B-timeRange I-timeRange I-timeRange
+i need to see some movie schedules	O O O O O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+show me the movie times for what s playing now	O O O B-object_type I-object_type O O O O B-timeRange
+show me the movie times	O O O B-object_type I-object_type
+find movie schedules	O B-object_type I-object_type
+find movie schedules	O B-object_type I-object_type
+show me movie schedules	O O B-object_type I-object_type
+find the movie schedule at twelve am	O O B-object_type I-object_type O B-timeRange I-timeRange
+could you please show me movie schedules	O O O O O B-object_type I-object_type
+show me some movie times	O O O B-object_type I-object_type
+please check the movie schedule	O O O B-object_type I-object_type
+can you give me the movie times	O O O O O B-object_type I-object_type
+find the movie schedule for 20:45:24	O O B-object_type I-object_type O B-timeRange
+what time are the movie schedules	O O O O B-object_type I-object_type
+what is the local movie schedule	O O O O B-object_type I-object_type
+please tell me the movie schedules	O O O O B-object_type I-object_type
+show movie schedules	O B-object_type I-object_type
+show the movie times	O O B-object_type I-object_type
+let me get the movie schedule for lunch time	O O O O B-object_type I-object_type O B-timeRange O
+what s the movie schedule	O O O B-object_type I-object_type
+give me the movie schedule nearby	O O O B-object_type I-object_type B-spatial_relation
+i want a movie schedule	O O O B-object_type I-object_type
+can i get the movie times	O O O O B-object_type I-object_type
+what are the movie schedules in the neighborhood	O O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation
+show the movie schedules in the neighborhood	O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation
+find the movie schedule close by	O O B-object_type I-object_type B-spatial_relation I-spatial_relation
+show me the movie schedule in the neighbourhood	O O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation
+find the movie schedule in the area	O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation
+what are the movie times	O O O B-object_type I-object_type
+where can i find the movie schedules	O O O O O B-object_type I-object_type
+what are the movie times	O O O B-object_type I-object_type
+show the movie times	O O B-object_type I-object_type
+show me movie schedules	O O B-object_type I-object_type
+find a movie schedule	O O B-object_type I-object_type
+what is the local movie schedule	O O O O B-object_type I-object_type
+what are the movie schedules	O O O B-object_type I-object_type
+look up the movie schedule	O O O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+show movie schedule	O B-object_type I-object_type
+show me movie schedules for today	O O B-object_type I-object_type O O
+find movie schedules	O B-object_type I-object_type
+find movie times	O B-object_type I-object_type
+i need current movie schedules	O O O B-object_type I-object_type
+can i get the movie times	O O O O B-object_type I-object_type
+show me the current movie times	O O O O B-object_type I-object_type
+what are the current movie schedules	O O O O B-object_type I-object_type
+find time for movie times now	O O O B-object_type I-object_type B-timeRange
+show me the movie times	O O O B-object_type I-object_type

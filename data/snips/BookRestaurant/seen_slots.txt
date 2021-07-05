@@ -1,0 +1,40 @@
+book a table near bienville for pioneer day	O O O B-spatial_relation B-city O B-timeRange I-timeRange
+book a table in cottondale not far for in two hundred sixty nine days	O O O O B-city B-spatial_relation I-spatial_relation O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+i need a reservation in steele city	O O O O O B-city I-city
+book a reservation at a restaraunt in ct	O O O O O O O B-state
+lets eat now somewhere in roach	O O B-timeRange O O B-city
+i would like reservations made for masonville vermont nov 7	O O O O O O B-city B-state B-timeRange I-timeRange
+i would like reservations for giodi s in piper az	O O O O O O O O B-city B-state
+i d like to book a place to eat in ny	O O O O O O O O O O B-state
+i want to eat supper at a lesotho place	O O O O B-timeRange O O B-country O
+i need a table somewhere in culver city wa	O O O O O O B-city I-city B-state
+i d like to eat in montana on 10/22/2030	O O O O O O B-state O B-timeRange
+i want to dine in luray	O O O O O B-city
+book a restasurant in pohick delaware	O O O O B-city B-state
+i need a reservation for apr the sixteenth 2027 in cazenovia ca	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city B-state
+book a table somewhere in dominica for 2 minutes from now	O O O O O B-country O B-timeRange I-timeRange I-timeRange I-timeRange
+book a spot in mi	O O O O B-state
+i need a reservation for orthodox good friday	O O O O O B-timeRange I-timeRange I-timeRange
+need to book a table in ludden	O O O O O O B-city
+i need a table in one hour from now at somewhere not far from la	O O O O B-timeRange I-timeRange I-timeRange O O O O B-spatial_relation I-spatial_relation O B-state
+let me get reservations at a place neighboring indonesia on august the nineteenth	O O O O O O O B-spatial_relation B-country O B-timeRange I-timeRange I-timeRange
+lets go eat in friday 43 days from now	O O O O B-city B-timeRange I-timeRange I-timeRange I-timeRange
+i want to eat in 19 hours at nm	O O O O B-timeRange I-timeRange I-timeRange O B-state
+i want to eat somewhere that is faraway from iowa	O O O O O O O B-spatial_relation O B-state
+find a place for me to eat in connecticut for 9 and a half months from now	O O O O O O O O B-state O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+book a spot in netherlands antilles	O O O O B-country I-country
+i need to book a reservation in searsport at eleven am	O O O O O O O B-city O B-timeRange I-timeRange
+find and book a table in wv	O O O O O O B-state
+i m in mi and want to eat somwhere nearby midday	O O O B-state O O O O O B-spatial_relation B-timeRange
+book a spot in malin ky	O O O O B-city B-state
+make me a reservation within walking distance in wy for 6 pm	O O O O B-spatial_relation I-spatial_relation I-spatial_relation O B-state O B-timeRange I-timeRange
+book a table in connecticut in robinette for one second from now	O O O O B-state O B-city O B-timeRange I-timeRange I-timeRange I-timeRange
+make me a reservation in cedarburg at 0 pm	O O O O O B-city O B-timeRange I-timeRange
+reserve a place to eat on march fifteenth in china within the same area	O O O O O O B-timeRange I-timeRange O B-country B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation
+book a spot far from åland	O O O B-spatial_relation O B-country
+book reservations at a restaurant in olton around supper time	O O O O O O B-city O B-timeRange O
+book a table in fiji for zero a m	O O O O B-country O B-timeRange I-timeRange I-timeRange
+i want to eat in ramona	O O O O O B-city
+need a table somewhere in quarryville 14 hours from now	O O O O O B-city B-timeRange I-timeRange I-timeRange I-timeRange
+make me a reservation in south carolina	O O O O O B-state I-state
+i want to eat close to bowlegs seven years from now	O O O O B-spatial_relation O B-city B-timeRange I-timeRange I-timeRange I-timeRange

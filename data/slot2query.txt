@@ -1,0 +1,122 @@
+playlist	What is a playlist? 
+music_item	What is the music project? 
+geographic_poi	What is the location? 
+facility	What are the facilities? 
+movie_name	What is the name of the movie? 
+location_name	What is the location name? 
+restaurant_name	What is the name of the restaurant? 
+track	What is the track? 
+restaurant_type	What is the type of restaurant? 
+object_part_of_series_type	What is the object part of the series type? 
+country	which country? 
+service	What is the service? 
+poi	What is the position? 
+party_size_description	Who are the people attending the party? 
+served_dish	What is a dish? 
+genre	What is the genre? 
+current_location	What is the current location? 
+object_select	What is the object to be rated? 
+album	What album? 
+object_name	What is the object name? 
+state	Where is the location? 
+sort	What type is it? 
+object_location_type	What is the location type? 
+movie_type	What type of movie is it? 
+spatial_relation	What is the spatial relationship? 
+artist	What is an artist? 
+cuisine	What dish? 
+entity_name	What is the name of the entity? 
+object_type	What is an object type? 
+playlist_owner	What is the owner of the playlist? 
+timeRange	What time frame? 
+city	What city? 
+rating_value	What is the value of the rating? 
+best_rating	What is the best score? 
+rating_unit	What is the rating unit? 
+year	which year 
+party_size_number	What is the number of people at the party? 
+condition_description	how is the weather? 
+condition_temperature	What is the condition temperature? 
+aircraft_code	What is the aircraft code? 
+airline_code	What is the airline code? 
+airline_name	What is the name of the airline? 
+airport_code	What is the airport code? 
+airport_name	What is the name of the airport? 
+arrive_date.date_relative	What is the relative date of the arrival date? 
+arrive_date.day_name	What day is the arrival date? 
+arrive_date.day_number	What is the number of days for the arrival date? 
+arrive_date.month_name	What is the month name of the arrival date? 
+arrive_date.today_relative	What is the relative of today's arrival date? 
+arrive_time.end_time	What is the end of the arrival time? 
+arrive_time.period_mod	What is the period of arrival time? 
+arrive_time.period_of_day	What time is the arrival time in a day? 
+arrive_time.start_time	What is the start time of the arrival time? 
+arrive_time.time	What time will you arrive? 
+arrive_time.time_relative	What is the relative time of arrival time? 
+booking_class	What is the booking class? 
+city_name	What is the name of the city? 
+class_type	What is the type of course? 
+compartment	What is a carriage? 
+connect	What is connection? 
+cost_relative	What is the relative cost? 
+day_name	What day is the name of the week? 
+day_number	What day is the day of the week? 
+days_code	What is the sky code? 
+depart_date.date_relative	What is the relative date of the departure date? 
+depart_date.day_name	What is the date of departure? 
+depart_date.day_number	What is the number of days in the departure date? 
+depart_date.month_name	What is the month name of the departure date? 
+depart_date.today_relative	What is the relative of the departure date today? 
+depart_date.year	What year is the departure date? 
+depart_time.end_time	What time does the departure time end? 
+depart_time.period_mod	What is the period of the departure time? 
+depart_time.period_of_day	What is the departure time? 
+depart_time.start_time	What time does the departure time start? 
+depart_time.time	What is the departure time? 
+depart_time.time_relative	What is the departure time? 
+economy	What is the economy? 
+fare_amount	How much is the fare? 
+fare_basis_code	What is the fare basis code? 
+flight	What flight? 
+flight_days	What is a flying day? 
+flight_mod	What is a flight MOD? 
+flight_number	What is the flight number? 
+flight_stop	Where is the plane parked? 
+flight_time	What time to fly? 
+fromloc.airport_code	What is the airport code of the departure place? 
+fromloc.airport_name	What is the name of the airport at from? 
+fromloc.city_name	What is the city name from the location? 
+fromloc.state_code	What is the state code from the location? 
+fromloc.state_name	What is the state name from the location? 
+meal	What to eat 
+meal_code	What is the meal code? 
+meal_description	What is the diet description? 
+mod	What is a mod? 
+month_name	What is the name of the month? 
+or	What is or? 
+period_of_day	What time? 
+restriction_code	What is the restriction code? 
+return_date.date_relative	What is the relative date of the return date? 
+return_date.day_name	What is the day name of the return date? 
+return_date.day_number	What is the number of days in the return date? 
+return_date.month_name	What is the month name of the returned date? 
+return_date.today_relative	What is the relative of today's return date? 
+return_time.period_mod	What is the period of the return time? 
+return_time.period_of_day	What is the return time? 
+round_trip	What is round trip? 
+state_code	What is the state code? 
+state_name	What is the name of the state? 
+stoploc.airport_code	What is the airport code of the stopping place? 
+stoploc.airport_name	What is the airport name of the stop? 
+stoploc.city_name	What is the city name of the stop location? 
+stoploc.state_code	What is the status code of the stop position? 
+time	what time is it now? 
+time_relative	What time is relative? 
+today_relative	What are your relatives today? 
+toloc.airport_code	What is the airport code of the arrival point? 
+toloc.airport_name	What is the name of the airport to the location? 
+toloc.city_name	What is the name of the city where you are located? 
+toloc.country_name	What is the country/region name of the location? 
+toloc.state_code	What is the state code to the location? 
+toloc.state_name	What is the state name of the location? 
+transport_type	What is transportation? 

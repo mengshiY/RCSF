@@ -1,0 +1,480 @@
+add camille to the this is lady antebellum playlist	O B-artist O O B-playlist I-playlist I-playlist I-playlist O
+add harry chapin in stress relief playlist	O B-artist I-artist O B-playlist I-playlist O
+add this track to morning classical	O O B-music_item O B-playlist I-playlist
+add artist to todo edm	O B-music_item O B-playlist I-playlist
+add a song to playlist chill hits	O O B-music_item O O B-playlist I-playlist
+add ernie hawkins to the dubstep playlist	O B-artist I-artist O O B-playlist O
+add this album to rock en español	O O B-music_item O B-playlist I-playlist I-playlist
+add track to dance playlist	O B-music_item O B-playlist O
+add a song by claude vonstroke to the under the surface playlist	O O B-music_item O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add david cole to an instrumental sunday	O B-artist I-artist O B-playlist I-playlist I-playlist
+add enduser song in grime instrumentals	O B-artist B-music_item O B-playlist I-playlist
+add track to kickass metal	O B-music_item O B-playlist I-playlist
+please put another tune into the laundry playlist	O O O B-music_item O O B-playlist O
+put this tune onto the signed xoxo playlist	O O B-music_item O O B-playlist I-playlist O
+include the album by arthur rhames in urban poet	O O B-music_item O B-artist I-artist O B-playlist I-playlist
+add jim martin to deathcore	O B-artist I-artist O B-playlist
+i need to add a tune by amanda stern to the playlist cloud rap	O O O O O B-music_item O B-artist I-artist O O O B-playlist I-playlist
+add kansas city missouri to stress relief	O B-artist I-artist I-artist O B-playlist I-playlist
+add tune to downtempo beats	O B-music_item O B-playlist I-playlist
+add artist steve cropper to rhythm and blues	O B-music_item B-artist I-artist O B-playlist I-playlist I-playlist
+i want another track added to the korean osts playlist	O O O B-music_item O O O B-playlist I-playlist O
+please add this song to indiespain list	O O O B-music_item O B-playlist O
+add song to sleepytime	O B-music_item O B-playlist
+add this song to the novedades pop playlist	O O B-music_item O O B-playlist I-playlist O
+add another song to the acoustic soul playlist	O O B-music_item O O B-playlist I-playlist O
+add the album to the six string peacefulness playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add boyce and hart to urban hits playlist	O B-artist I-artist I-artist O B-playlist I-playlist O
+add the tune to your favorite slaughterhouse playlist	O O B-music_item O B-playlist I-playlist I-playlist O
+add song by emmy rossum to hit rewind	O B-music_item O B-artist I-artist O B-playlist I-playlist
+add artist rob dougan to electronow	O B-music_item B-artist I-artist O B-playlist
+add the artist p d q bach to the te quiero playlist	O O B-music_item B-artist I-artist I-artist I-artist O O B-playlist I-playlist O
+add michael balzary to mujeres y hombres y fiesta	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist
+can you put this tune onto latin dance cardio	O O O O B-music_item O B-playlist I-playlist I-playlist
+add morten harket to this is puccini	O B-artist I-artist O B-playlist I-playlist I-playlist
+i d like to add this album to funtime	O O O O O O B-music_item O B-playlist
+add this song by chieko ochi to the drum & breaks playlist	O O B-music_item O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add the album to the fantasía playlist	O O B-music_item O O B-playlist O
+add tune to composer weekly pauline oliveros playlist	O B-music_item O B-playlist I-playlist I-playlist I-playlist O
+add tune to bedroom jams	O B-music_item O B-playlist I-playlist
+add this artist to fifa 17 soundtrack	O O B-music_item O B-playlist I-playlist I-playlist
+add the frank beard song to the soft pop hits playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist I-playlist O
+add the artist to the nuclear blast novelties playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add jovanotti to punk español	O B-artist O B-playlist I-playlist
+add this track to alternative route	O O B-music_item O B-playlist I-playlist
+add artist to latin pop hits	O B-music_item O B-playlist I-playlist I-playlist
+add artist to playlist epic gaming	O B-music_item O O B-playlist I-playlist
+add madchild to electro latino	O B-artist O B-playlist I-playlist
+add this track to the 70s smash hits playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add daniel zueras to lush vibes	O B-artist I-artist O B-playlist I-playlist
+add an album to the días de frío playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add licorice mckechnie to just dance by aftercluv	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist
+add an album to playlist emily dickinson	O O B-music_item O O B-playlist I-playlist
+add tapper zukie to the all out 00s playlist	O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add album to acoustic spring	O B-music_item O B-playlist I-playlist
+i want a song by john schlitt in the bajo las estrellas playlist	O O O B-music_item O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add the tune to bandas sonoras	O O B-music_item O B-playlist I-playlist
+add album to princesas indie	O B-music_item O B-playlist I-playlist
+add this artist to the playlist called fusion fest	O O B-music_item O O O O B-playlist I-playlist
+add this song to the top 100 indie tracks on spotify playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O
+add kevin cadogan to the 80s classic hits list	O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add bonobo to queen playlis	O B-artist O B-playlist O
+include brandon paris in the metalsucks playlist	O B-artist I-artist O B-playlist I-playlist I-playlist
+the hot house playlist needs another album	O B-playlist I-playlist O O O B-music_item
+add this track to the playlist named cali fire	O O B-music_item O O O O B-playlist I-playlist
+add the singer maxine nightingale to the spanish beat playlist	O O O B-artist I-artist O O B-playlist I-playlist O
+add a norma jean tune to the soul revived playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist O
+put this track on the playlist with the name roadrunner rec new releases	O O B-music_item O O O O O O B-playlist I-playlist I-playlist I-playlist
+add artist to laundry	O B-music_item O B-playlist
+add harlow wilcox to hip hop club bangers	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist
+add this maksim tune to trad folk	O O B-artist B-music_item O B-playlist I-playlist
+add this artist to the this is dirty projectors playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist O
+add little walter to women of comedy playlist	O B-artist I-artist O B-playlist I-playlist I-playlist O
+add philip labonte to women of r&b playlist	O B-artist I-artist O B-playlist I-playlist I-playlist O
+add artist fabri fibra to this is earth wind & fire	O B-music_item B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+add this track to punk rock workout	O O B-music_item O B-playlist I-playlist I-playlist
+incorporate a roberto parra sandoval track into the cena elegante playlist	O O B-artist I-artist I-artist B-music_item O O B-playlist I-playlist O
+add this song to indie hipster	O O B-music_item O B-playlist I-playlist
+add wiktor coj to the sleep playlist	O B-artist I-artist O O B-playlist O
+add paul wickens to lo mejor del rock de españa	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+can you put the album onto cierra la puerta	O O O O B-music_item O B-playlist I-playlist I-playlist
+add some jim diamond to peace	O O B-artist I-artist O B-playlist
+add song to instrumental study	O B-music_item O B-playlist I-playlist
+add jeanette to extreme metal workout	O B-artist O B-playlist I-playlist I-playlist
+add the artist gwenno pipette to the sexy as folk playlist	O O B-music_item B-artist I-artist O O B-playlist I-playlist I-playlist O
+add adele onto funtime activity playlist	O B-artist O B-playlist I-playlist O
+put anna grigorjewna semenowitsch in all out 00s list	O B-artist I-artist I-artist O B-playlist I-playlist I-playlist O
+add vertexguy to beach vibes	O B-artist O B-playlist I-playlist
+add art garfunkel to the chill tracks playlist	O B-artist I-artist O O B-playlist I-playlist O
+add this tune to the deep dark indie folk playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist O
+add this track to anochecer urbano	O O B-music_item O B-playlist I-playlist
+add this clint mansell song to latin pop classics	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist
+add julia fordham to the massive soca hits playlist	O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add yuna ito to the hot rods & horror shows playlist	O B-artist I-artist O O B-playlist I-playlist I-playlist I-playlist I-playlist O
+add song to trap land	O B-music_item O B-playlist I-playlist
+put this kes song on the feel good indie rock playlist	O O B-artist B-music_item O O B-playlist I-playlist I-playlist I-playlist O
+i want you to put this track onto the playlist called throwback party	O O O O O O B-music_item O O O O B-playlist I-playlist
+add the artist to the latin jazz playlist	O O B-music_item O O B-playlist I-playlist O
+add this track to the playlist korean osts	O O B-music_item O O O B-playlist I-playlist
+add song to orgánica	O B-music_item O B-playlist
+add nina hagen to essential folk	O B-artist I-artist O B-playlist I-playlist
+add this tune to the duetos playlist	O O B-music_item O O B-playlist O
+add this annabella lwin track to indie alternativa	O O B-artist I-artist B-music_item O B-playlist I-playlist
+add this artist to lo más dance playlist	O O B-music_item O B-playlist I-playlist I-playlist O
+add a bill deasy track to the conexiones playlist	O O B-artist I-artist B-music_item O O B-playlist O
+i would like this artist on drum & breaks	O O O O B-music_item O B-playlist I-playlist I-playlist
+edit classic road trip songs put on sammy cahn	O B-playlist I-playlist I-playlist I-playlist O O B-artist I-artist
+can you put dj kay slay onto the 2010 decade playlist	O O O B-artist I-artist I-artist O O B-playlist I-playlist O
+add tune to soft rock playlist	O B-music_item O B-playlist I-playlist O
+add another song to the country playlist	O O B-music_item O O B-playlist O
+add bedroom jams to album	O B-playlist I-playlist O B-music_item
+please add this album to the playlist titled hip hop 2017 new school	O O O B-music_item O O O O B-playlist I-playlist I-playlist I-playlist I-playlist
+add a randy travis song to deep dark indie folk	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist I-playlist
+add tune to women of pop playlist	O B-music_item O B-playlist I-playlist I-playlist O
+include jesper kyd in the grime instrumentals playlist	O B-artist I-artist O O B-playlist I-playlist O
+add annette artani to the playlist titled all out 90s	O B-artist I-artist O O O O B-playlist I-playlist I-playlist
+add tune to nusic	O B-music_item O B-playlist
+add artist to showstopper being mary jane	O B-music_item O B-playlist I-playlist I-playlist I-playlist
+can you add john scofield newest tune the selektor to the playlist	O O O B-artist I-artist O B-music_item B-playlist I-playlist O O O
+i want more francis healy in the rockin vibes playlist	O O O B-artist I-artist O O B-playlist I-playlist O
+add a jang nara track to the hip hop gaming playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist I-playlist O
+add robert nighthawk to novedades pop	O B-artist I-artist O B-playlist I-playlist
+add paula abdul to classic acoustic playlist	O B-artist I-artist O B-playlist I-playlist O
+add artist matt noveskey to journey	O B-music_item B-artist I-artist O B-playlist
+add naseer shamma to piano chill	O B-artist I-artist O B-playlist I-playlist
+add the album to the metalcore playlist	O O B-music_item O O B-playlist O
+add this artist to reggae classics playlist	O O B-music_item O B-playlist I-playlist O
+add the artist leann rimes to the women of indie playlist	O O B-music_item B-artist I-artist O O B-playlist I-playlist I-playlist O
+incorporate nao kawakita into the epic classical playlist	O B-artist I-artist O O B-playlist I-playlist O
+add this artist to sunshine reggae	O O B-music_item O B-playlist I-playlist
+put conway twitty in the this is tchaikovsky playlist	O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add a tune to the calm vibes playlist	O O B-music_item O O B-playlist I-playlist O
+add artist to acoustic soul	O B-music_item O B-playlist I-playlist
+add tune to this is trey songz	O B-music_item O B-playlist I-playlist I-playlist I-playlist
+add track to fresh finds	O B-music_item O B-playlist I-playlist
+add the tune to the indie workout playlist	O O B-music_item O O B-playlist I-playlist O
+please include emily remler in indie bluegrass	O O B-artist I-artist O B-playlist I-playlist
+add gary valenciano to the power gaming playlist	O B-artist I-artist O O B-playlist I-playlist O
+put this kan mikami tune on fresh finds cyclone	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist
+add kisaki to family road trip playlist	O B-artist O B-playlist I-playlist I-playlist O
+add the go find to sólo para dos	O B-artist I-artist I-artist O B-playlist I-playlist I-playlist
+add a track in nike running tempo mix	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+put this whole album on the playlist called old school metal	O O O B-music_item O O O O B-playlist I-playlist I-playlist
+add to laundry playlist with this song	O O B-playlist O O O B-music_item
+add this rob campanella tune to psychedelic rock	O O B-artist I-artist B-music_item O B-playlist I-playlist
+add this track to downtempo beats	O O B-music_item O B-playlist I-playlist
+i want another song in the women of latin music playlist	O O O B-music_item O O B-playlist I-playlist I-playlist I-playlist O
+add this artist to dubstep	O O B-music_item O B-playlist
+add this artist to spain top 50	O O B-music_item O B-playlist I-playlist I-playlist
+can you make an addition to the old enough to enjoy this playlist with martin barre	O O O O O O O B-playlist I-playlist I-playlist I-playlist I-playlist O O B-artist I-artist
+add tracy chapman to late night jazz	O B-artist I-artist O B-playlist I-playlist I-playlist
+add this song to the pre-party playlist	O O B-music_item O O B-playlist O
+please add john deacon to the funtime activity playlist	O O B-artist I-artist O O B-playlist I-playlist O
+add sirusho to the 50 clásicos playlist	O B-artist O O B-playlist I-playlist O
+add el pavo dustin to viajes	O B-artist I-artist I-artist O B-playlist
+put jazzy b on lazy chill afternoon playlist	O B-artist I-artist O B-playlist I-playlist I-playlist O
+add track to all out 70s	O B-music_item O B-playlist I-playlist I-playlist
+add album to feeling blue	O B-music_item O B-playlist I-playlist
+add dan the automator to forever country	O B-artist I-artist I-artist O B-playlist I-playlist
+put mike mccready in the kitchen swagger playlist	O B-artist I-artist O O B-playlist I-playlist O
+add this album to digster future hits	O O B-music_item O B-playlist I-playlist I-playlist
+add a song to the para dormir playlist	O O B-music_item O O B-playlist I-playlist O
+i need another artist in the romántica playlist	O O O B-music_item O O B-playlist O
+add bulat schalwowitsch okudschawa to retro pop	O B-artist I-artist I-artist O B-playlist I-playlist
+put this artist in pachangueo total	O O B-music_item O B-playlist I-playlist
+add the song by brian larsen to the cardio playlist	O O B-music_item O B-artist I-artist O O B-playlist O
+put kurt cobain onto korean osts	O B-artist I-artist O B-playlist I-playlist
+add ivan mane jarnowick to fusion fest	O B-artist I-artist I-artist O B-playlist I-playlist
+the feel good indie rock playlist needs another song	O B-playlist I-playlist I-playlist I-playlist O O O B-music_item
+add the artist gougoush to the soul revived playlist	O O B-music_item B-artist O O B-playlist I-playlist O
+put this tune on guest list take	O O B-music_item O B-playlist I-playlist I-playlist
+can you put this track onto classic jazz funk	O O O O B-music_item O B-playlist I-playlist I-playlist
+please add chris frantz to pop rising list	O O B-artist I-artist O B-playlist I-playlist O
+add this ricardo villalobos track to under the surface	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist
+add this track to llegando a casa	O O B-music_item O B-playlist I-playlist I-playlist
+add this matt bachand tune to pure rock & roll	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist I-playlist
+add dr know to the playlist named i love my 90 s r&b	O B-artist I-artist O O O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+can you put this song on the metal xplorer playlist	O O O O B-music_item O O B-playlist I-playlist O
+can you add this tune to the night out playlist	O O O O B-music_item O O B-playlist I-playlist O
+add track to novedades viernes sudamérica	O B-music_item O B-playlist I-playlist I-playlist
+add venetian snares onto the atmospheric calm playlist	O B-artist I-artist O O B-playlist I-playlist O
+add song to thrash attack	O B-music_item O B-playlist I-playlist
+i want to add a song to the sunshine reggae playlist	O O O O O B-music_item O O B-playlist I-playlist O
+add another song to the cita romántica playlist	O O B-music_item O O B-playlist I-playlist O
+i want jimmie noone on the playlist titled lo mejor de los 00 s	O O B-artist I-artist O O O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+the sleep machine rainforest playlist needs another tune	B-playlist I-playlist I-playlist I-playlist O O O B-music_item
+add song to punk playlist	O B-music_item O B-playlist O
+add a kanon wakeshima track to the feeling blue playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist O
+add koichi sugiyama to whm	O B-artist I-artist O B-playlist
+add dean martin track to metal xplorer playlist	O B-artist I-artist B-music_item O B-playlist I-playlist O
+add pete shelley to is it new wave	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist
+add song to this is philip glass	O B-music_item O B-playlist I-playlist I-playlist I-playlist
+add shooter jennings to the all out 70s playlist	O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add tune by leonard cohen to road trip	O B-music_item O B-artist I-artist O B-playlist I-playlist
+i need another artist in the new indie mix playlist	O O O B-music_item O O B-playlist I-playlist I-playlist O
+add a tune to skylar diggins training mix	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+add bilal to winter	O B-artist O B-playlist
+add blag dahlia to pura vida	O B-artist I-artist O B-playlist I-playlist
+add this artist to this is rosana	O O B-music_item O B-playlist I-playlist I-playlist
+add this artist to piano chill	O O B-music_item O B-playlist I-playlist
+this track should get added to spain top 50	O B-music_item O O O O B-playlist I-playlist I-playlist
+add sam moore to lo mejor de los 00 s	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+add this tune to morning commute	O O B-music_item O B-playlist I-playlist
+add this song to cleaning	O O B-music_item O B-playlist
+add atticus ross to the playlist electrosafari	O B-artist I-artist O O O B-playlist
+add track to rapcaviar	O B-music_item O B-playlist
+add mike mantler to playlist girls night	O B-artist I-artist O O B-playlist I-playlist
+put this track on operación bikini	O O B-music_item O B-playlist I-playlist
+i want to put this artist in mellowed out gaming	O O O O O B-music_item O B-playlist I-playlist I-playlist
+add kirk hammett to calm down	O B-artist I-artist O B-playlist I-playlist
+add tune to blues	O B-music_item O B-playlist
+add sheila to enamorándose	O B-artist O B-playlist
+the zen focus playlist needs david franj in it	O B-playlist I-playlist O O B-artist I-artist O O
+add this marilyn manson tune to latin party anthems	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist
+i want this song on the playlist called chill vibes	O O O B-music_item O O O O B-playlist I-playlist
+i want to move this album to the selektor playlist	O O O O O B-music_item O B-playlist I-playlist O
+add song by ian mcdonald to an instrumental sunday	O B-music_item O B-artist I-artist O B-playlist I-playlist I-playlist
+add armen movsessian to this is skepta playlist	O B-artist I-artist O B-playlist I-playlist I-playlist O
+put this tune by ross the boss onto nação reggae	O O B-music_item O B-artist I-artist I-artist O B-playlist I-playlist
+add the artist tom cochrane to new york groove	O O B-music_item B-artist I-artist O B-playlist I-playlist I-playlist
+add this track by del tha funkee homosapien to the playlist songs for you not your parents	O O B-music_item O B-artist I-artist I-artist I-artist O O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+add sammy hagar to ultra metal	O B-artist I-artist O B-playlist I-playlist
+add tune to classical intimate dinner	O B-music_item O B-playlist I-playlist I-playlist
+add hound dog taylor to the miami 2017 guest list playlist	O B-artist I-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O
+put li yuchun s album onto the kickass metal playlist	O B-artist I-artist O B-music_item O O B-playlist I-playlist O
+add women of metal to odetta holmes	O B-playlist I-playlist I-playlist O B-artist I-artist
+add fabri fibra to the birth of cool	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist
+add this track to the sunshine reggae playlist	O O B-music_item O O B-playlist I-playlist O
+a shawnna to the warm hearts feel good playlist	O B-artist O O B-playlist I-playlist I-playlist I-playlist O
+add george baker to hiphop hot 50	O B-artist I-artist O B-playlist I-playlist I-playlist
+add track to this is zezé di camargo & luciano	O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+add this track to the evening commute playlist	O O B-music_item O O B-playlist I-playlist O
+add artist to novedades pop	O B-music_item O B-playlist I-playlist
+put this artist on domingo indie	O O B-music_item O B-playlist I-playlist
+add this tune by mopreme shakur to the party ¡fiesta playlist	O O B-music_item O B-artist I-artist O O B-playlist I-playlist O
+add tune to reggae infusions	O B-music_item O B-playlist I-playlist
+add song by charlie hunter to rumba y más	O B-music_item O B-artist I-artist O B-playlist I-playlist I-playlist
+add a track to the emo forever playlist	O O B-music_item O O B-playlist I-playlist O
+put the artist pat monahan onto the emily dickinson playlist	O O B-music_item B-artist I-artist O O B-playlist I-playlist O
+add tune to african heat	O B-music_item O B-playlist I-playlist
+add xenomania to operación bikini please	O B-artist O B-playlist I-playlist O
+add an album to women of hip hop	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+add bryan gregory to the playlist emily dickinson	O B-artist I-artist O O O B-playlist I-playlist
+edit aux cord privileges playlist by putting this tune on it	O B-playlist I-playlist I-playlist O O O O B-music_item O O
+add the artist to the 90 s baby makers playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist O
+add album to metal overload playlist	O B-music_item O B-playlist I-playlist O
+add armistead burwell smith iv to blues masters	O B-artist I-artist I-artist I-artist O B-playlist I-playlist
+put another track in the keep calm playlist	O O B-music_item O O B-playlist I-playlist O
+add tune to genuine r&b	O B-music_item O B-playlist I-playlist
+add track by monster bobby to peace playlist	O B-music_item O B-artist I-artist O B-playlist O
+add the artist tomohisa yamashita to the conexiones playlist	O O B-music_item B-artist I-artist O O B-playlist O
+add a tune in women of classical	O O B-music_item O B-playlist I-playlist I-playlist
+add the track by apostolos nikolaidis to the this is luis fonsi playlist	O O B-music_item O B-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O
+add this raffaele riefoli tune to deathcore	O O B-artist I-artist B-music_item O B-playlist
+add this tune to rock save the queen	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+include pat smear on guest list engadget	O B-artist I-artist O B-playlist I-playlist I-playlist
+put artist emre aydin on happy birthday playlist	O B-music_item B-artist I-artist O B-playlist I-playlist O
+put this artist on instrumental study playlist	O O B-music_item O B-playlist I-playlist O
+add a tune to this is wagner	O O B-music_item O B-playlist I-playlist I-playlist
+add a track to the el mejor pop en español playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist I-playlist O
+add funtwo to disco fever track	O B-artist O B-playlist I-playlist B-music_item
+add fabrice morvan to folk for kids	O B-artist I-artist O B-playlist I-playlist I-playlist
+add this track to latin jazz	O O B-music_item O B-playlist I-playlist
+i d like to add this whole album to the selektor	O O O O O O O B-music_item O B-playlist I-playlist
+add ronski speed to sweet soul chillout	O B-artist I-artist O B-playlist I-playlist I-playlist
+add afdlin shauki to la mejor música dance 2017	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist
+add ace hood to the this is aretha franklin playlist	O B-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O
+add no secrets to power gaming playlist	O B-artist I-artist O B-playlist I-playlist O
+add track to punk essentials	O B-music_item O B-playlist I-playlist
+add this artist to blues roots list	O O B-music_item O B-playlist I-playlist O
+add bashful brother oswald to love moments	O B-artist I-artist I-artist O B-playlist I-playlist
+add manos hatzidakis to lo mejor de los 00 s	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+please put this tune on the irish folk – jigs & reels playlist	O O O B-music_item O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O
+please place tim wright s track onto the queen playlist	O O B-artist I-artist O B-music_item O O B-playlist O
+add joelia savitsjeva in 88 keys	O B-artist I-artist O B-playlist I-playlist
+put this artist onto political punks	O O B-music_item O B-playlist I-playlist
+add stephen mcnally to confidence boost	O B-artist I-artist O B-playlist I-playlist
+add this song to year in metal 2016	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+add ronnie james dio tune to women of electronic selection	O B-artist I-artist I-artist B-music_item O B-playlist I-playlist I-playlist O
+put this tune on all a cappella	O O B-music_item O B-playlist I-playlist I-playlist
+add an album in guitar hero live playlist	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+add this song to country coffeehouse	O O B-music_item O B-playlist I-playlist
+add the tune by misato watanabe to the trapeo playlist	O O B-music_item O B-artist I-artist O O B-playlist O
+add this tune to retrowave outrun	O O B-music_item O B-playlist I-playlist
+add classic punk by chab	O B-playlist I-playlist O B-artist
+put this album on r&b movement	O O B-music_item O B-playlist I-playlist
+add this tune to this is nicky jam	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+please add the singer valery kipelov to the perfect concentration list	O O O O B-artist I-artist O O B-playlist I-playlist O
+add this track to clásicos del hip hop español	O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist
+put this album by mike tramp on deathcore	O O B-music_item O B-artist I-artist O B-playlist
+add a song to ultimate indie	O O B-music_item O B-playlist I-playlist
+add track to afternoon train ride	O B-music_item O B-playlist I-playlist I-playlist
+put a l lloyd on gaming anthems	O B-artist I-artist I-artist O B-playlist I-playlist
+add this roy orbison song onto women of comedy	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist
+add a song to in residence metal hammer episode 6	O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+add robin trower to the medieval 50 spotify picks playlist	O B-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O
+add brad kane to the pumping iron soundtrack	O B-artist I-artist O O B-playlist I-playlist O
+i d like to move the artist named matt walker to the playlist grandes unplugged	O O O O O O B-music_item O B-artist I-artist O O O B-playlist I-playlist
+put artist harry burleigh on classical new releases spotify picks	O B-music_item B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist
+add peter banks to verano forever list	O B-artist I-artist O B-playlist I-playlist O
+add this tune to the spinnin records top 100 list	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist O
+add tune to morning rhythm playlist	O B-music_item O B-playlist I-playlist O
+add the album to the psychedelic rock playlist	O O B-music_item O O B-playlist I-playlist O
+add little pattie track in nu metal	O B-artist I-artist B-music_item O B-playlist I-playlist
+place this tune in workout remix	O O B-music_item O B-playlist I-playlist
+the get going playlist needs another song	O B-playlist I-playlist O O O B-music_item
+add this song to rock party	O O B-music_item O B-playlist I-playlist
+add bone crusher to the chill out playlist	O B-artist I-artist O O B-playlist I-playlist O
+add ihsahn to hip hop 2017 new school	O B-artist O B-playlist I-playlist I-playlist I-playlist I-playlist
+add track to orgullo gay	O B-music_item O B-playlist I-playlist
+i want to add george formby jr to the family favorites playlist	O O O O B-artist I-artist I-artist O O B-playlist I-playlist O
+add roel van velzen to the night playlist	O B-artist I-artist I-artist O O B-playlist O
+add songs in 90 s hip hop of artist	O O O B-playlist I-playlist I-playlist I-playlist O B-music_item
+add this track to the playlist kickass metal	O O B-music_item O O O B-playlist I-playlist
+please put maimi yajima s song onto operación bikini	O O B-artist I-artist O B-music_item O B-playlist I-playlist
+add this artist named trevor mcnevan to the playlist top gaming tracks	O O B-music_item O B-artist I-artist O O O B-playlist I-playlist I-playlist
+add bslade to women of k-pop playlist	O B-artist O B-playlist I-playlist I-playlist O
+add chen jiafeng to ultimate 00s	O B-artist I-artist O B-playlist I-playlist
+add tune papa bue to éxitos españa playlist	O B-music_item B-artist I-artist O B-playlist I-playlist O
+add this artist to the playlist cool jazz	O O B-music_item O O O B-playlist I-playlist
+stick fonseca in the songs to sing in the car playlist	O B-artist O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O
+add jan smit in endorphin rush	O B-artist I-artist O B-playlist I-playlist
+add sweets edison to relaxing playlist	O B-artist I-artist O B-playlist O
+add raz b to drive playlist	O B-artist I-artist O B-playlist O
+add ana carolina to chill	O B-artist I-artist O B-playlist
+i want to add anna semenovich to the dinner with friends playlist	O O O O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add this artist to the playlist called evening groove	O O B-music_item O O O O B-playlist I-playlist
+add this artist to romántica	O O B-music_item O B-playlist
+add track to this is zezé di camargo & luciano playlist	O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O
+add yma sumac to this is animal collective	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist
+put gregory douglass in halloween teens please	O B-artist I-artist O B-playlist I-playlist O
+add this artist to spring music	O O B-music_item O B-playlist I-playlist
+i want to put paul young onto all new all now	O O O O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist
+add the album to the top 100 country tracks on spotify playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O
+add this adam clayton tune to sxsw fresh playlist	O O B-artist I-artist B-music_item O B-playlist I-playlist O
+the songs to sing in the car playlist needs k j yesudas discography in it	O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O O B-artist I-artist I-artist I-artist O O
+add this track to epic wall of sound	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+please add tobymac s song onto the indiespensables playlist	O O B-artist O B-music_item O O B-playlist O
+add j r rotem to classic jazz singers playlist	O B-artist I-artist I-artist O B-playlist I-playlist I-playlist O
+add chris walla to trabajo relax	O B-artist I-artist O B-playlist I-playlist
+add a j mclean to rock to work	O B-artist I-artist I-artist O B-playlist I-playlist I-playlist
+add abrar ul haq to confidence boost	O B-artist I-artist I-artist O B-playlist I-playlist
+add september to winter music	O B-artist O B-playlist I-playlist
+add this tune by kurt james to the playlist latin pop classics	O O B-music_item O B-artist I-artist O O O B-playlist I-playlist I-playlist
+add louis nelson delisle to the pulse of americana	O B-artist I-artist I-artist O B-playlist I-playlist I-playlist I-playlist
+add this artist to primavera sound 2016 barcelona	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+add a track to summer of love	O O B-music_item O B-playlist I-playlist I-playlist
+add david henry hwang to the this is nicky jam playlist	O B-artist I-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O
+add robin trower to feminist friday playlist	O B-artist I-artist O B-playlist I-playlist O
+add this album to the playlist guest list engadget	O O B-music_item O O O B-playlist I-playlist I-playlist
+add a mary fahl tune to the pre-party r&b jams playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist I-playlist O
+add daigo to indietronic	O B-artist O B-playlist
+add the artist choclair to la mejor música de bso	O O B-music_item B-artist O B-playlist I-playlist I-playlist I-playlist I-playlist
+add tune to punk español	O B-music_item O B-playlist I-playlist
+will you put this song onto women of electronic	O O O O B-music_item O B-playlist I-playlist I-playlist
+add artist brenda k starr to frescura indie	O B-music_item B-artist I-artist I-artist O B-playlist I-playlist
+add maki ohguro to the rock hard playlist	O B-artist I-artist O O B-playlist I-playlist O
+add an album in sweet soul chillout	O O B-music_item O B-playlist I-playlist I-playlist
+add artist to playlist classic punk	O B-music_item O O B-playlist I-playlist
+add track to urban poet	O B-music_item O B-playlist I-playlist
+add the proof album to cierra la puerta playlist	O O B-artist B-music_item O B-playlist I-playlist I-playlist O
+add jenifer to rock the 2000 s	O B-artist O B-playlist I-playlist I-playlist I-playlist
+add album to virales de siempre	O B-music_item O B-playlist I-playlist I-playlist
+add richard sohl to dinner for 2	O B-artist I-artist O B-playlist I-playlist I-playlist
+i wish to add this album to the dinner playlist	O O O O O B-music_item O O B-playlist O
+add this is status quo to teddy riley	O B-playlist I-playlist I-playlist I-playlist O B-artist I-artist
+add this tune to the leche con chocolate playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add kjetil vidar haraldstad to listas de éxitos	O B-artist I-artist I-artist O B-playlist I-playlist I-playlist
+add young maylay to club hits	O B-artist I-artist O B-playlist I-playlist
+put a bunky green tune into the phunkadelic playlist	O O B-artist I-artist B-music_item O O B-playlist O
+add this artist named prince to the playlist all new all now	O O B-music_item O B-artist O O O B-playlist I-playlist I-playlist I-playlist
+please put this tune into the all a cappella playlist	O O O B-music_item O O B-playlist I-playlist I-playlist O
+i want to put another album into the a peaceful rush hour playlist	O O O O O B-music_item O O B-playlist I-playlist I-playlist I-playlist O
+add j p pickens to chill out playlist	O B-artist I-artist I-artist O B-playlist I-playlist O
+please add the song by raphael rabello to the playlist fantastic workout	O O O B-music_item O B-artist I-artist O O O B-playlist I-playlist
+put this agent m tune onto de cantautor español	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist
+add this tune to hipster soul	O O B-music_item O B-playlist I-playlist
+add the track to the metal talks metallica playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add robin s to sxsw latin	O B-artist I-artist O B-playlist I-playlist
+add this artist to sleep tight	O O B-music_item O B-playlist I-playlist
+add the song to the martin garrix show playlist	O O B-music_item O B-playlist I-playlist I-playlist I-playlist O
+add this album to tgif	O O B-music_item O B-playlist
+add michael hayvoronsky to lo que suena los angeles	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist
+add this jimmy london tune to the new waltz playlist	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist O
+put ramy ayach on latin pop rising	O B-artist I-artist O B-playlist I-playlist I-playlist
+add song to women of sxsw	O B-music_item O B-playlist I-playlist I-playlist
+add album to ultra metal	O B-music_item O B-playlist I-playlist
+add gina schock to workout twerkout	O B-artist I-artist O B-playlist I-playlist
+add song to evening playlist	O B-music_item O B-playlist O
+add cary brothers to rock the 2000 s playlist	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist O
+add a track to fusion fest	O O B-music_item O B-playlist I-playlist
+the trapaholics needs another artist added	O B-playlist O O B-music_item O
+add this tune to escapada	O O B-music_item O B-playlist
+add song to rocksteady playlist	O B-music_item O B-playlist O
+add eric moo to women of jazz	O B-artist I-artist O B-playlist I-playlist I-playlist
+add an album by liza oumarova to the steampunk playlist	O O B-music_item O B-artist I-artist O O B-playlist O
+add tony kakko music to street dance playlist	O B-artist I-artist O O B-playlist I-playlist O
+add a rachael price album to todo edm	O O B-artist I-artist B-music_item O B-playlist I-playlist
+add this artist to queen playlist	O O B-music_item O B-playlist O
+add this song to wedding classics playlist	O O B-music_item O B-playlist I-playlist O
+put another song in the cloud rap playlist	O O B-music_item O O B-playlist I-playlist O
+add viktor merjanov to california rock state	O B-artist I-artist O B-playlist I-playlist I-playlist
+add bob klose to la mejor música para tus fiestas	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist
+add this album to old school death metal	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+add the album to the might and myth power metal playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist I-playlist O
+to the travelling playlist please add this david gahan song	O O B-playlist O O O O B-artist I-artist B-music_item
+add jo stafford music to the workout twerkout playlist	O B-artist I-artist O O O B-playlist I-playlist O
+add porter wagoner to the the sleep machine waterscapes playlist	O B-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O
+add the artist mike to the sexy as folk playlist	O O B-music_item B-artist O O B-playlist I-playlist I-playlist O
+put petar georgiev kalica onto the old school hip hop playlist	O B-artist I-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O
+put vandemataram srinivas s track onto hiphop hot 50	O B-artist I-artist O B-music_item O B-playlist I-playlist I-playlist
+add millie corretjer to the rhythm playlist	O B-artist I-artist O B-playlist I-playlist O
+add the album to the the sweet suite playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add this album to the spanish beat playlist	O O B-music_item O O B-playlist I-playlist O
+add the track to the work playlist	O O B-music_item O O B-playlist O
+add a song to this is racionais mc s	O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist
+add a track to playlist cena con amigos	O O B-music_item O O B-playlist I-playlist I-playlist
+add a song to indie hipster	O O B-music_item O B-playlist I-playlist
+add the 40 cal tune to the laundry playlist	O O B-artist I-artist B-music_item O O B-playlist O
+add the matt murphy tune to the flow español playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist O
+i d like to add jordan rudess onto the divertido para niños playlist	O O O O O B-artist I-artist O O B-playlist I-playlist I-playlist O
+add kent james to the disney soundtrack	O B-artist I-artist O O B-playlist O
+can you put the artist giovanni giacomo gastoldi onto the chill out music playlist	O O O O B-music_item B-artist I-artist I-artist O O B-playlist I-playlist I-playlist O
+add the album to the hot 50 playlist	O O B-music_item O O B-playlist I-playlist O
+add the track to the drum & breaks playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add the boy george track to the emo forever playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist O
+add ted heath to the road trip playlist	O B-artist I-artist O O B-playlist I-playlist O
+add this artist to showstopper being mary jane	O O B-music_item O B-playlist I-playlist I-playlist I-playlist
+put the artist onto top latin alternative	O O B-music_item O B-playlist I-playlist I-playlist
+add michael wittig music to country icon playlist	O B-artist I-artist O O B-playlist I-playlist O
+add richard mcnamara newest song to the just smile playlist	O B-artist I-artist O B-music_item O O B-playlist I-playlist O
+add annesley malewana album to playlist indietronic	O B-artist I-artist B-music_item O O B-playlist
+add this artist to fairy tales playlist	O O B-music_item O B-playlist I-playlist O
+add a derek watkins tune to this is johnny cash	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist I-playlist
+put abe laboriel onto the escapada playlist	O B-artist I-artist O O B-playlist O
+please add this track by paul mcguigan to the deep house playlist	O O O B-music_item O B-artist I-artist O O B-playlist I-playlist O
+add a track to jazzy dinner	O O B-music_item O B-playlist I-playlist
+add the album to the hipster soul playlist	O O B-music_item O O B-playlist I-playlist O
+add tommy johnson to the metalsucks playlist	O B-artist I-artist O B-playlist I-playlist I-playlist
+add an artist to jukebox boogie rhythm & blues	O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist
+add the song to the mac n cheese playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add farhad darya songs in virales de siempre	O B-artist I-artist O O B-playlist I-playlist I-playlist
+add the artist to the political punks playlist	O O B-music_item O O B-playlist I-playlist O
+add sabrina salerno to the grime instrumentals playlist	O B-artist I-artist O O B-playlist I-playlist O
+add this tune by rod argent to propuesta alternativa playlist	O O B-music_item O B-artist I-artist O B-playlist I-playlist O
+add this artist to pop 2017 picks	O O B-music_item O B-playlist I-playlist I-playlist
+add this song to blues roots	O O B-music_item O B-playlist I-playlist
+add the da brat track to the soak up the sun playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist I-playlist I-playlist O
+add a track to the another glass playlist	O O B-music_item O O B-playlist I-playlist O
+the workout playlist needs more chris cross	O B-playlist O O O B-artist I-artist
+add the artist cho kyu hyun to funky jams	O O B-music_item B-artist I-artist I-artist O B-playlist I-playlist
+put this tune on dancepop	O O B-music_item O B-playlist
+add turk to the deep house playlist	O B-artist O O B-playlist I-playlist O
+add justin mcroberts to this is chopin	O B-artist I-artist O B-playlist I-playlist I-playlist
+add a tune to clásicos del hip hop español	O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist
+add this artist to the laugh list	O O B-music_item O B-playlist I-playlist I-playlist
+the sleep machine waterscapes playlist needs some kris chetan ramlu in it	B-playlist I-playlist I-playlist I-playlist O O O B-artist I-artist I-artist O O
+put a gary clark song into the soul bpm playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist O
+add gary lachman track to jazz for loving couples playlist	O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist I-playlist O
+add this track to the sin ti playlist	O O B-music_item O O B-playlist I-playlist O
+add this track by horace andy to acoustic soul	O O B-music_item O B-artist I-artist O B-playlist I-playlist
+add song to siesta	O B-music_item O B-playlist
+add the song to the soundscapes for gaming playlist	O O B-music_item O O B-playlist I-playlist I-playlist O
+add tune to atmospheric black metal playlist	O B-music_item O B-playlist I-playlist I-playlist O
+add tune to sxsw fresh playlist	O B-music_item O B-playlist I-playlist O
+add ian stuart donaldson to canadian country	O B-artist I-artist I-artist O B-playlist I-playlist
+add patti page album to i love my neo soul	O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist
+add this song to this is no te va gustar playlist	O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O
+i need to have pat alger s album placed onto the spotlight spain 2016 playlist	O O O O B-artist I-artist O B-music_item O O O B-playlist I-playlist I-playlist O
+i want to add another album to the wine & dine playlist	O O O O O B-music_item O O B-playlist I-playlist I-playlist O
+add george thorogood to el mejor rock en español	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist
+add this tune to the refugee playlist	O O B-music_item O B-playlist I-playlist I-playlist
+add a gackt camui track to the white noise playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist O
+add album to pop rising	O B-music_item O B-playlist I-playlist
+i want to add a song by jazz brasileiro	O O O O O B-music_item O B-playlist I-playlist
+add wing track to all a cappella	O B-artist B-music_item O B-playlist I-playlist I-playlist
+please add this this tune to the playlist this is selena	O O O O B-music_item O O O B-playlist I-playlist I-playlist
+can you put musiri subramania iyer s song onto the lo-fi love soundtrack	O O O B-artist I-artist I-artist O B-music_item O O B-playlist I-playlist O
+i want to add michelle heaton to this is chopin	O O O O B-artist I-artist O B-playlist I-playlist I-playlist
+put a xiang xiang track onto women of the blues	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist I-playlist
+add fabri fibra to evening acoustic	O B-artist I-artist O B-playlist I-playlist
